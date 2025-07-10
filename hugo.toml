@@ -1,7 +1,7 @@
-baseURL = 'https://aplio-hugo.vercel.app/'
-languageCode = 'en-us'
+baseURL = 'https://grasgruenit.github.io/alean/'
+languageCode = 'de-li'
 pagination = { pagerSize = 6 }
-title = 'Aplio Hugo'
+title = 'Alean (Capital) AG'
 theme= 'aplio'
 
 [taxonomies]
