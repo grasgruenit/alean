@@ -3,7 +3,9 @@
 {{ partial "about/aboutUs.html" .}}
 
 
+payment:
 {{ partial "global/paymentFeature.html" (dict "context" . "page" "about" "className" "bg-white dark:bg-dark-300 py-150 max-md:py-25 relative max-md:overflow-hidden" "tagline" "our value"  "sectionTitle" "Our business is steered by <br> our core values")}}
+aboutValue
 {{ partial "about/aboutValue.html" .}}
 
 {{ partial "global/testimonialSlider.html" (dict "context" . "spacing" "")}}
