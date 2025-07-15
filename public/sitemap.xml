@@ -2,25 +2,88 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/alean/dienstleistungen/1/</loc>
+  </url><url>
+    <loc>http://localhost:1313/alean/dienstleistungen/2/</loc>
+  </url><url>
+    <loc>http://localhost:1313/alean/dienstleistungen/3/</loc>
+  </url><url>
+    <loc>http://localhost:1313/alean/dienstleistungen/4/</loc>
+  </url><url>
+    <loc>http://localhost:1313/alean/downloads/1/</loc>
+  </url><url>
+    <loc>http://localhost:1313/alean/downloads/2/</loc>
+  </url><url>
+    <loc>http://localhost:1313/alean/fonds/1/</loc>
+  </url><url>
+    <loc>http://localhost:1313/alean/fonds/2/</loc>
+  </url><url>
+    <loc>http://localhost:1313/alean/fonds/3/</loc>
+  </url><url>
+    <loc>http://localhost:1313/alean/mitgliedschaften/1/</loc>
+  </url><url>
+    <loc>http://localhost:1313/alean/mitgliedschaften/2/</loc>
+  </url><url>
+    <loc>http://localhost:1313/alean/mitgliedschaften/3/</loc>
+  </url><url>
+    <loc>http://localhost:1313/alean/mitgliedschaften/4/</loc>
+  </url><url>
+    <loc>http://localhost:1313/alean/mitgliedschaften/5/</loc>
+  </url><url>
+    <loc>http://localhost:1313/alean/mitgliedschaften/</loc>
+  </url><url>
+    <loc>http://localhost:1313/alean/philosophie/1/</loc>
+  </url><url>
+    <loc>http://localhost:1313/alean/philosophie/2/</loc>
+  </url><url>
+    <loc>http://localhost:1313/alean/philosophie/3/</loc>
+  </url><url>
+    <loc>http://localhost:1313/alean/philosophie/4/</loc>
+  </url><url>
+    <loc>http://localhost:1313/alean/werte/1/</loc>
+  </url><url>
+    <loc>http://localhost:1313/alean/werte/2/</loc>
+  </url><url>
+    <loc>http://localhost:1313/alean/werte/3/</loc>
+  </url><url>
+    <loc>http://localhost:1313/alean/werte/4/</loc>
+  </url><url>
+    <loc>http://localhost:1313/alean/werte/5/</loc>
+  </url><url>
+    <loc>http://localhost:1313/alean/werte/6/</loc>
+  </url><url>
     <loc>http://localhost:1313/alean/</loc>
-    <lastmod>2024-07-29T13:48:36+06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/alean/tags/acounting/</loc>
+    <loc>http://localhost:1313/alean/team/1/</loc>
   </url><url>
-    <loc>http://localhost:1313/alean/tags/banking/</loc>
-  </url><url>
-    <loc>http://localhost:1313/alean/tags/benefits/</loc>
+    <loc>http://localhost:1313/alean/team/5/</loc>
   </url><url>
     <loc>http://localhost:1313/alean/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/alean/tags/finance/</loc>
+    <loc>http://localhost:1313/alean/dienstleistungen/</loc>
   </url><url>
-    <loc>http://localhost:1313/alean/tags/marketing/</loc>
+    <loc>http://localhost:1313/alean/downloads/</loc>
   </url><url>
-    <loc>http://localhost:1313/alean/tags/payment/</loc>
+    <loc>http://localhost:1313/alean/team/7/</loc>
   </url><url>
-    <loc>http://localhost:1313/alean/tags/research/</loc>
+    <loc>http://localhost:1313/alean/fonds/</loc>
+  </url><url>
+    <loc>http://localhost:1313/alean/team/2/</loc>
+  </url><url>
+    <loc>http://localhost:1313/alean/start/</loc>
+  </url><url>
+    <loc>http://localhost:1313/alean/team/4/</loc>
+  </url><url>
+    <loc>http://localhost:1313/alean/philosophie/</loc>
+  </url><url>
+    <loc>http://localhost:1313/alean/team/6/</loc>
+  </url><url>
+    <loc>http://localhost:1313/alean/team/3/</loc>
   </url><url>
     <loc>http://localhost:1313/alean/tags/</loc>
+  </url><url>
+    <loc>http://localhost:1313/alean/team/</loc>
+  </url><url>
+    <loc>http://localhost:1313/alean/werte/</loc>
   </url>
 </urlset>

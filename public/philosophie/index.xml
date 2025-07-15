@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Philosophies on Alean (Capital) AG</title>
+    <link>http://localhost:1313/alean/philosophie/</link>
+    <description>Recent content in Philosophies on Alean (Capital) AG</description>
+    <generator>Hugo</generator>
+    <language>de-li</language>
+    <atom:link href="http://localhost:1313/alean/philosophie/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://localhost:1313/alean/philosophie/1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/alean/philosophie/1/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Dynamischer Anlageprozess / Top-Down Ansatz&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Anlagestrategie – langfristige Aufteilung des Vermögens&lt;/li&gt;&#xA;&lt;li&gt;Anlagetaktik – Abweichungen von der Anlagestrategie&lt;/li&gt;&#xA;&lt;li&gt;Umsetzung mit ausgewählten Anlageinstrumenten&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/alean/philosophie/2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/alean/philosophie/2/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Aufteilung Anlageklassen&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Maximale Ausschöpfung des Diversifikationspotentials bei gleichzeitiger strategischer Absicherung von Währungsrisiken&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/alean/philosophie/3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/alean/philosophie/3/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Market Trading / Timing&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Dynamische taktische Abweichungen von der vereinbarten Anlagestrategie zur optimalen Ausnutzung von Marktentwicklungen bzw. kurzfristiger Investmentopportunitäten&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/alean/philosophie/4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/alean/philosophie/4/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Optimiert und effizient&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Passive, d.h. indexnahe Umsetzung in informationseffizienten Märkten&lt;/li&gt;&#xA;&lt;li&gt;Aktive Umsetzung bzw. Einsatz von aktivem Management in den übrigen Märkten&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>

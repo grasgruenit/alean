@@ -23,6 +23,11 @@
 <link rel="shortcut icon" href="http://localhost:1313/alean/images/favicons/favicon.ico" type="image/x-icon" />
 <link rel="icon" href="http://localhost:1313/alean/images/favicons/favicon.png" type="image/x-icon" />
 
+<style>
+p {margin-bottom: 30px !important;}
+h3 {margin-bottom: 20px !important;}
+</style>
+
 <!-- Fontawesome -->
 <link rel="stylesheet" href="http://localhost:1313/alean/plugins/fontawesome/all.css"/>
 
@@ -44,7 +49,7 @@
 
 </head>
 <body class="relative overflow-x-hidden  text-base antialiased bg-white dark:bg-dark-300 font-Inter">
-  <div class="toggle-button fixed right-5 max-lg:bottom-2.5 lg:top-1/3 z-[10000000000]">
+  <div class="toggle-button fixed right-5 max-lg:bottom-2.5 lg:top-1/3 z-[10000000000]" style="display:none;">
     <button
       id="theme-toggle"
       type="button"
@@ -94,7 +99,7 @@
     <div class="nav-logo">
       <a href="http://localhost:1313/alean/">
         <img
-          src="http://localhost:1313/alean/images/logo.svg"
+          src="http://localhost:1313/alean/logo.png"
           alt="logo"
           class="dark:hidden"
         />
@@ -110,33 +115,13 @@
       
         
         
-        <li class="relative group">
+        <li>
           <a
-            href="javascript:void(0)"
-            class="font-Inter flex items-center text-base font-medium leading-8 text-paragraph dark:text-white py-[5px] px-5 lg:px-4 xl:px-5 border rounded-large border-transparent hover:bg-white hover:border-borderColour dark:hover:bg-dark-200 dark:hover:border-borderColour/10 duration-500 hover:duration-500 transition-colors "
+            href="http://localhost:1313/alean/"
+            class="font-Inter flex items-center text-base font-medium leading-8 text-paragraph dark:text-white py-[5px] px-5 lg:px-4 xl:px-5 border rounded-large border-transparent hover:bg-white hover:border-borderColour dark:hover:bg-dark-200 dark:hover:border-borderColour/10 duration-500 hover:duration-500 transition-colors  "
           >
-          Home
-            <i
-              class="fa-solid fa-angle-down text-paragraph dark:text-white ml-1 group-hover:rotate-180 duration-500 mt-1"
-            ></i>
+          Dienstleistungen
           </a>
-          <ul
-            class="absolute min-w-[250px] left-0 top-12  p-5   opacity-0 scale-y-0 origin-top duration-500 group-hover:scale-y-100 bg-white dark:bg-dark-200  group-hover:opacity-100 rounded-md [&>*:not(:last-child)]:border-b [&>*:not(:last-child)]:border-dashed [&>*:not(:last-child)]:border-borderColour dark:[&>*:not(:last-child)]:border-borderColour-dark [&>*:not(:first-child)]:mt-2.5 z-10"
-          >
-            
-                <li class="relative overflow-hidden text-base capitalize text-paragraph pb-2.5 before:absolute before:bottom-0 before:left-0 before:h-[2px] before:w-full before:origin-right before:scale-x-0 before:bg-paragraph dark:before:bg-white  before:transition-transform before:duration-500 duration-500 before:content-[''] before:hover:origin-left before:hover:scale-x-100 ">
-                    <a href="/alean/home-2/" class="flex"> 
-                      Home 2
-                    </a>
-                </li>
-            
-                <li class="relative overflow-hidden text-base capitalize text-paragraph pb-2.5 before:absolute before:bottom-0 before:left-0 before:h-[2px] before:w-full before:origin-right before:scale-x-0 before:bg-paragraph dark:before:bg-white  before:transition-transform before:duration-500 duration-500 before:content-[''] before:hover:origin-left before:hover:scale-x-100 ">
-                    <a href="/alean/home-5/" class="flex"> 
-                      Home 5
-                    </a>
-                </li>
-            
-          </ul>
         </li>
         
       
@@ -144,167 +129,11 @@
         
         <li>
           <a
-            href="http://localhost:1313/alean/about/"
+            href="http://localhost:1313/alean/"
             class="font-Inter flex items-center text-base font-medium leading-8 text-paragraph dark:text-white py-[5px] px-5 lg:px-4 xl:px-5 border rounded-large border-transparent hover:bg-white hover:border-borderColour dark:hover:bg-dark-200 dark:hover:border-borderColour/10 duration-500 hover:duration-500 transition-colors  "
           >
-          About
+          Team
           </a>
-        </li>
-        
-      
-        
-        
-        <li class="relative group">
-          <a
-            href="javascript:void(0)"
-            class="font-Inter flex items-center text-base font-medium leading-8 text-paragraph dark:text-white py-[5px] px-5 lg:px-4 xl:px-5 border rounded-large border-transparent hover:bg-white hover:border-borderColour dark:hover:bg-dark-200 dark:hover:border-borderColour/10 duration-500 hover:duration-500 transition-colors "
-          >
-          Services
-            <i
-              class="fa-solid fa-angle-down text-paragraph dark:text-white ml-1 group-hover:rotate-180 duration-500 mt-1"
-            ></i>
-          </a>
-          <ul
-            class="absolute min-w-[250px] left-0 top-12  p-5   opacity-0 scale-y-0 origin-top duration-500 group-hover:scale-y-100 bg-white dark:bg-dark-200  group-hover:opacity-100 rounded-md [&>*:not(:last-child)]:border-b [&>*:not(:last-child)]:border-dashed [&>*:not(:last-child)]:border-borderColour dark:[&>*:not(:last-child)]:border-borderColour-dark [&>*:not(:first-child)]:mt-2.5 z-10"
-          >
-            
-                <li class="relative overflow-hidden text-base capitalize text-paragraph pb-2.5 before:absolute before:bottom-0 before:left-0 before:h-[2px] before:w-full before:origin-right before:scale-x-0 before:bg-paragraph dark:before:bg-white  before:transition-transform before:duration-500 duration-500 before:content-[''] before:hover:origin-left before:hover:scale-x-100 ">
-                    <a href="/alean/services/" class="flex"> 
-                      Services
-                    </a>
-                </li>
-            
-                <li class="relative overflow-hidden text-base capitalize text-paragraph pb-2.5 before:absolute before:bottom-0 before:left-0 before:h-[2px] before:w-full before:origin-right before:scale-x-0 before:bg-paragraph dark:before:bg-white  before:transition-transform before:duration-500 duration-500 before:content-[''] before:hover:origin-left before:hover:scale-x-100 ">
-                    <a href="/alean/services/fundraising-advice/" class="flex"> 
-                      Service Single
-                    </a>
-                </li>
-            
-          </ul>
-        </li>
-        
-      
-        
-        
-        <li class="relative group">
-          <a
-            href="javascript:void(0)"
-            class="font-Inter flex items-center text-base font-medium leading-8 text-paragraph dark:text-white py-[5px] px-5 lg:px-4 xl:px-5 border rounded-large border-transparent hover:bg-white hover:border-borderColour dark:hover:bg-dark-200 dark:hover:border-borderColour/10 duration-500 hover:duration-500 transition-colors "
-          >
-          Pages
-            <i
-              class="fa-solid fa-angle-down text-paragraph dark:text-white ml-1 group-hover:rotate-180 duration-500 mt-1"
-            ></i>
-          </a>
-          <ul
-            class="absolute min-w-[250px] left-0 top-12  p-5   opacity-0 scale-y-0 origin-top duration-500 group-hover:scale-y-100 bg-white dark:bg-dark-200  group-hover:opacity-100 rounded-md [&>*:not(:last-child)]:border-b [&>*:not(:last-child)]:border-dashed [&>*:not(:last-child)]:border-borderColour dark:[&>*:not(:last-child)]:border-borderColour-dark [&>*:not(:first-child)]:mt-2.5 z-10"
-          >
-            
-                <li class="relative overflow-hidden text-base capitalize text-paragraph pb-2.5 before:absolute before:bottom-0 before:left-0 before:h-[2px] before:w-full before:origin-right before:scale-x-0 before:bg-paragraph dark:before:bg-white  before:transition-transform before:duration-500 duration-500 before:content-[''] before:hover:origin-left before:hover:scale-x-100 ">
-                    <a href="/alean/team/" class="flex"> 
-                      Team
-                    </a>
-                </li>
-            
-                <li class="relative overflow-hidden text-base capitalize text-paragraph pb-2.5 before:absolute before:bottom-0 before:left-0 before:h-[2px] before:w-full before:origin-right before:scale-x-0 before:bg-paragraph dark:before:bg-white  before:transition-transform before:duration-500 duration-500 before:content-[''] before:hover:origin-left before:hover:scale-x-100 ">
-                    <a href="/alean/team/jacob-jones/" class="flex"> 
-                      Team Members
-                    </a>
-                </li>
-            
-                <li class="relative overflow-hidden text-base capitalize text-paragraph pb-2.5 before:absolute before:bottom-0 before:left-0 before:h-[2px] before:w-full before:origin-right before:scale-x-0 before:bg-paragraph dark:before:bg-white  before:transition-transform before:duration-500 duration-500 before:content-[''] before:hover:origin-left before:hover:scale-x-100 ">
-                    <a href="/alean/career/" class="flex"> 
-                      Career
-                    </a>
-                </li>
-            
-                <li class="relative overflow-hidden text-base capitalize text-paragraph pb-2.5 before:absolute before:bottom-0 before:left-0 before:h-[2px] before:w-full before:origin-right before:scale-x-0 before:bg-paragraph dark:before:bg-white  before:transition-transform before:duration-500 duration-500 before:content-[''] before:hover:origin-left before:hover:scale-x-100 ">
-                    <a href="/alean/career/webflow-developer/" class="flex"> 
-                      Career Details
-                    </a>
-                </li>
-            
-                <li class="relative overflow-hidden text-base capitalize text-paragraph pb-2.5 before:absolute before:bottom-0 before:left-0 before:h-[2px] before:w-full before:origin-right before:scale-x-0 before:bg-paragraph dark:before:bg-white  before:transition-transform before:duration-500 duration-500 before:content-[''] before:hover:origin-left before:hover:scale-x-100 ">
-                    <a href="/alean/price/" class="flex"> 
-                      Price
-                    </a>
-                </li>
-            
-                <li class="relative overflow-hidden text-base capitalize text-paragraph pb-2.5 before:absolute before:bottom-0 before:left-0 before:h-[2px] before:w-full before:origin-right before:scale-x-0 before:bg-paragraph dark:before:bg-white  before:transition-transform before:duration-500 duration-500 before:content-[''] before:hover:origin-left before:hover:scale-x-100 ">
-                    <a href="/alean/integration/" class="flex"> 
-                      Integration
-                    </a>
-                </li>
-            
-                <li class="relative overflow-hidden text-base capitalize text-paragraph pb-2.5 before:absolute before:bottom-0 before:left-0 before:h-[2px] before:w-full before:origin-right before:scale-x-0 before:bg-paragraph dark:before:bg-white  before:transition-transform before:duration-500 duration-500 before:content-[''] before:hover:origin-left before:hover:scale-x-100 ">
-                    <a href="/alean/testimonial/" class="flex"> 
-                      Testimonial
-                    </a>
-                </li>
-            
-                <li class="relative overflow-hidden text-base capitalize text-paragraph pb-2.5 before:absolute before:bottom-0 before:left-0 before:h-[2px] before:w-full before:origin-right before:scale-x-0 before:bg-paragraph dark:before:bg-white  before:transition-transform before:duration-500 duration-500 before:content-[''] before:hover:origin-left before:hover:scale-x-100 ">
-                    <a href="/alean/faq/" class="flex"> 
-                      FAQ
-                    </a>
-                </li>
-            
-                <li class="relative overflow-hidden text-base capitalize text-paragraph pb-2.5 before:absolute before:bottom-0 before:left-0 before:h-[2px] before:w-full before:origin-right before:scale-x-0 before:bg-paragraph dark:before:bg-white  before:transition-transform before:duration-500 duration-500 before:content-[''] before:hover:origin-left before:hover:scale-x-100 ">
-                    <a href="/alean/login/" class="flex"> 
-                      Log In
-                    </a>
-                </li>
-            
-                <li class="relative overflow-hidden text-base capitalize text-paragraph pb-2.5 before:absolute before:bottom-0 before:left-0 before:h-[2px] before:w-full before:origin-right before:scale-x-0 before:bg-paragraph dark:before:bg-white  before:transition-transform before:duration-500 duration-500 before:content-[''] before:hover:origin-left before:hover:scale-x-100 ">
-                    <a href="/alean/signup/" class="flex"> 
-                      Sign Up
-                    </a>
-                </li>
-            
-          </ul>
-        </li>
-        
-      
-        
-        
-        <li class="relative group">
-          <a
-            href="javascript:void(0)"
-            class="font-Inter flex items-center text-base font-medium leading-8 text-paragraph dark:text-white py-[5px] px-5 lg:px-4 xl:px-5 border rounded-large border-transparent hover:bg-white hover:border-borderColour dark:hover:bg-dark-200 dark:hover:border-borderColour/10 duration-500 hover:duration-500 transition-colors "
-          >
-          Blogs
-            <i
-              class="fa-solid fa-angle-down text-paragraph dark:text-white ml-1 group-hover:rotate-180 duration-500 mt-1"
-            ></i>
-          </a>
-          <ul
-            class="absolute min-w-[250px] left-0 top-12  p-5   opacity-0 scale-y-0 origin-top duration-500 group-hover:scale-y-100 bg-white dark:bg-dark-200  group-hover:opacity-100 rounded-md [&>*:not(:last-child)]:border-b [&>*:not(:last-child)]:border-dashed [&>*:not(:last-child)]:border-borderColour dark:[&>*:not(:last-child)]:border-borderColour-dark [&>*:not(:first-child)]:mt-2.5 z-10"
-          >
-            
-                <li class="relative overflow-hidden text-base capitalize text-paragraph pb-2.5 before:absolute before:bottom-0 before:left-0 before:h-[2px] before:w-full before:origin-right before:scale-x-0 before:bg-paragraph dark:before:bg-white  before:transition-transform before:duration-500 duration-500 before:content-[''] before:hover:origin-left before:hover:scale-x-100 ">
-                    <a href="/alean/blog/" class="flex"> 
-                      Blog Grid
-                    </a>
-                </li>
-            
-                <li class="relative overflow-hidden text-base capitalize text-paragraph pb-2.5 before:absolute before:bottom-0 before:left-0 before:h-[2px] before:w-full before:origin-right before:scale-x-0 before:bg-paragraph dark:before:bg-white  before:transition-transform before:duration-500 duration-500 before:content-[''] before:hover:origin-left before:hover:scale-x-100 ">
-                    <a href="/alean/blog-list/" class="flex"> 
-                      Blog List
-                    </a>
-                </li>
-            
-                <li class="relative overflow-hidden text-base capitalize text-paragraph pb-2.5 before:absolute before:bottom-0 before:left-0 before:h-[2px] before:w-full before:origin-right before:scale-x-0 before:bg-paragraph dark:before:bg-white  before:transition-transform before:duration-500 duration-500 before:content-[''] before:hover:origin-left before:hover:scale-x-100 ">
-                    <a href="/alean/categories/acounting/" class="flex"> 
-                      Categories
-                    </a>
-                </li>
-            
-                <li class="relative overflow-hidden text-base capitalize text-paragraph pb-2.5 before:absolute before:bottom-0 before:left-0 before:h-[2px] before:w-full before:origin-right before:scale-x-0 before:bg-paragraph dark:before:bg-white  before:transition-transform before:duration-500 duration-500 before:content-[''] before:hover:origin-left before:hover:scale-x-100 ">
-                    <a href="/alean/tags/acounting/" class="flex"> 
-                      Tags
-                    </a>
-                </li>
-            
-          </ul>
         </li>
         
       
@@ -312,10 +141,22 @@
         
         <li>
           <a
-            href="http://localhost:1313/alean/contact/"
+            href="http://localhost:1313/alean/"
             class="font-Inter flex items-center text-base font-medium leading-8 text-paragraph dark:text-white py-[5px] px-5 lg:px-4 xl:px-5 border rounded-large border-transparent hover:bg-white hover:border-borderColour dark:hover:bg-dark-200 dark:hover:border-borderColour/10 duration-500 hover:duration-500 transition-colors  "
           >
-          Contact Us
+          Fonds
+          </a>
+        </li>
+        
+      
+        
+        
+        <li>
+          <a
+            href="http://localhost:1313/alean/"
+            class="font-Inter flex items-center text-base font-medium leading-8 text-paragraph dark:text-white py-[5px] px-5 lg:px-4 xl:px-5 border rounded-large border-transparent hover:bg-white hover:border-borderColour dark:hover:bg-dark-200 dark:hover:border-borderColour/10 duration-500 hover:duration-500 transition-colors  "
+          >
+          Standort
           </a>
         </li>
         
@@ -393,33 +234,14 @@
           
             
             
-            <li class="relative group">
+            <li>
               <a
-                href="javascript:void(0)"
-                class="font-Inter flex items-center text-base font-medium leading-8 text-paragraph dark:text-white py-[5px] px-5 lg:px-4 xl:px-5 border rounded-large border-transparent hover:bg-white hover:border-borderColour dark:hover:bg-dark-200 dark:hover:border-borderColour/10 duration-500 hover:duration-500 transition-colors "
+              href="http://localhost:1313/alean/"
+                class="relative overflow-hidden text-base capitalize text-paragraph pb-2.5 before:absolute before:bottom-0 before:left-0 before:h-[2px] before:w-full before:origin-right before:scale-x-0 before:bg-paragraph dark:before:bg-white  before:transition-transform before:duration-500 duration-500 before:content-[''] before:hover:origin-left before:hover:scale-x-100  a "
               >
-              Home
-                <i
-                  class="fa-solid fa-angle-down text-paragraph dark:text-white ml-1 group-hover:rotate-180 duration-500 mt-1"
-                ></i>
+              
+              Dienstleistungen
               </a>
-              <ul
-                class="absolute w-full min-w-[250px] left-0 top-12  p-5   opacity-0 scale-y-0 origin-top duration-500 group-hover:scale-y-100 bg-white dark:bg-dark-200  group-hover:opacity-100 rounded-md [&>*:not(:last-child)]:border-b [&>*:not(:last-child)]:border-dashed [&>*:not(:last-child)]:border-borderColour dark:[&>*:not(:last-child)]:border-borderColour-dark [&>*:not(:first-child)]:mt-2.5 z-10"
-              >
-                
-                    <li class="relative overflow-hidden text-base capitalize text-paragraph pb-2.5 before:absolute before:bottom-0 before:left-0 before:h-[2px] before:w-full before:origin-right before:scale-x-0 before:bg-paragraph dark:before:bg-white  before:transition-transform before:duration-500 duration-500 before:content-[''] before:hover:origin-left before:hover:scale-x-100">
-                        <a href="/alean/home-2/" class="flex"> 
-                          Home 2
-                        </a>
-                    </li>
-                
-                    <li class="relative overflow-hidden text-base capitalize text-paragraph pb-2.5 before:absolute before:bottom-0 before:left-0 before:h-[2px] before:w-full before:origin-right before:scale-x-0 before:bg-paragraph dark:before:bg-white  before:transition-transform before:duration-500 duration-500 before:content-[''] before:hover:origin-left before:hover:scale-x-100">
-                        <a href="/alean/home-5/" class="flex"> 
-                          Home 5
-                        </a>
-                    </li>
-                
-              </ul>
             </li>
             
           
@@ -427,168 +249,12 @@
             
             <li>
               <a
-              href="http://localhost:1313/alean/about/"
+              href="http://localhost:1313/alean/"
                 class="relative overflow-hidden text-base capitalize text-paragraph pb-2.5 before:absolute before:bottom-0 before:left-0 before:h-[2px] before:w-full before:origin-right before:scale-x-0 before:bg-paragraph dark:before:bg-white  before:transition-transform before:duration-500 duration-500 before:content-[''] before:hover:origin-left before:hover:scale-x-100  a "
               >
               
-              About
+              Team
               </a>
-            </li>
-            
-          
-            
-            
-            <li class="relative group">
-              <a
-                href="javascript:void(0)"
-                class="font-Inter flex items-center text-base font-medium leading-8 text-paragraph dark:text-white py-[5px] px-5 lg:px-4 xl:px-5 border rounded-large border-transparent hover:bg-white hover:border-borderColour dark:hover:bg-dark-200 dark:hover:border-borderColour/10 duration-500 hover:duration-500 transition-colors "
-              >
-              Services
-                <i
-                  class="fa-solid fa-angle-down text-paragraph dark:text-white ml-1 group-hover:rotate-180 duration-500 mt-1"
-                ></i>
-              </a>
-              <ul
-                class="absolute w-full min-w-[250px] left-0 top-12  p-5   opacity-0 scale-y-0 origin-top duration-500 group-hover:scale-y-100 bg-white dark:bg-dark-200  group-hover:opacity-100 rounded-md [&>*:not(:last-child)]:border-b [&>*:not(:last-child)]:border-dashed [&>*:not(:last-child)]:border-borderColour dark:[&>*:not(:last-child)]:border-borderColour-dark [&>*:not(:first-child)]:mt-2.5 z-10"
-              >
-                
-                    <li class="relative overflow-hidden text-base capitalize text-paragraph pb-2.5 before:absolute before:bottom-0 before:left-0 before:h-[2px] before:w-full before:origin-right before:scale-x-0 before:bg-paragraph dark:before:bg-white  before:transition-transform before:duration-500 duration-500 before:content-[''] before:hover:origin-left before:hover:scale-x-100">
-                        <a href="/alean/services/" class="flex"> 
-                          Services
-                        </a>
-                    </li>
-                
-                    <li class="relative overflow-hidden text-base capitalize text-paragraph pb-2.5 before:absolute before:bottom-0 before:left-0 before:h-[2px] before:w-full before:origin-right before:scale-x-0 before:bg-paragraph dark:before:bg-white  before:transition-transform before:duration-500 duration-500 before:content-[''] before:hover:origin-left before:hover:scale-x-100">
-                        <a href="/alean/services/fundraising-advice/" class="flex"> 
-                          Service Single
-                        </a>
-                    </li>
-                
-              </ul>
-            </li>
-            
-          
-            
-            
-            <li class="relative group">
-              <a
-                href="javascript:void(0)"
-                class="font-Inter flex items-center text-base font-medium leading-8 text-paragraph dark:text-white py-[5px] px-5 lg:px-4 xl:px-5 border rounded-large border-transparent hover:bg-white hover:border-borderColour dark:hover:bg-dark-200 dark:hover:border-borderColour/10 duration-500 hover:duration-500 transition-colors "
-              >
-              Pages
-                <i
-                  class="fa-solid fa-angle-down text-paragraph dark:text-white ml-1 group-hover:rotate-180 duration-500 mt-1"
-                ></i>
-              </a>
-              <ul
-                class="absolute w-full min-w-[250px] left-0 top-12  p-5   opacity-0 scale-y-0 origin-top duration-500 group-hover:scale-y-100 bg-white dark:bg-dark-200  group-hover:opacity-100 rounded-md [&>*:not(:last-child)]:border-b [&>*:not(:last-child)]:border-dashed [&>*:not(:last-child)]:border-borderColour dark:[&>*:not(:last-child)]:border-borderColour-dark [&>*:not(:first-child)]:mt-2.5 z-10"
-              >
-                
-                    <li class="relative overflow-hidden text-base capitalize text-paragraph pb-2.5 before:absolute before:bottom-0 before:left-0 before:h-[2px] before:w-full before:origin-right before:scale-x-0 before:bg-paragraph dark:before:bg-white  before:transition-transform before:duration-500 duration-500 before:content-[''] before:hover:origin-left before:hover:scale-x-100">
-                        <a href="/alean/team/" class="flex"> 
-                          Team
-                        </a>
-                    </li>
-                
-                    <li class="relative overflow-hidden text-base capitalize text-paragraph pb-2.5 before:absolute before:bottom-0 before:left-0 before:h-[2px] before:w-full before:origin-right before:scale-x-0 before:bg-paragraph dark:before:bg-white  before:transition-transform before:duration-500 duration-500 before:content-[''] before:hover:origin-left before:hover:scale-x-100">
-                        <a href="/alean/team/jacob-jones/" class="flex"> 
-                          Team Members
-                        </a>
-                    </li>
-                
-                    <li class="relative overflow-hidden text-base capitalize text-paragraph pb-2.5 before:absolute before:bottom-0 before:left-0 before:h-[2px] before:w-full before:origin-right before:scale-x-0 before:bg-paragraph dark:before:bg-white  before:transition-transform before:duration-500 duration-500 before:content-[''] before:hover:origin-left before:hover:scale-x-100">
-                        <a href="/alean/career/" class="flex"> 
-                          Career
-                        </a>
-                    </li>
-                
-                    <li class="relative overflow-hidden text-base capitalize text-paragraph pb-2.5 before:absolute before:bottom-0 before:left-0 before:h-[2px] before:w-full before:origin-right before:scale-x-0 before:bg-paragraph dark:before:bg-white  before:transition-transform before:duration-500 duration-500 before:content-[''] before:hover:origin-left before:hover:scale-x-100">
-                        <a href="/alean/career/webflow-developer/" class="flex"> 
-                          Career Details
-                        </a>
-                    </li>
-                
-                    <li class="relative overflow-hidden text-base capitalize text-paragraph pb-2.5 before:absolute before:bottom-0 before:left-0 before:h-[2px] before:w-full before:origin-right before:scale-x-0 before:bg-paragraph dark:before:bg-white  before:transition-transform before:duration-500 duration-500 before:content-[''] before:hover:origin-left before:hover:scale-x-100">
-                        <a href="/alean/price/" class="flex"> 
-                          Price
-                        </a>
-                    </li>
-                
-                    <li class="relative overflow-hidden text-base capitalize text-paragraph pb-2.5 before:absolute before:bottom-0 before:left-0 before:h-[2px] before:w-full before:origin-right before:scale-x-0 before:bg-paragraph dark:before:bg-white  before:transition-transform before:duration-500 duration-500 before:content-[''] before:hover:origin-left before:hover:scale-x-100">
-                        <a href="/alean/integration/" class="flex"> 
-                          Integration
-                        </a>
-                    </li>
-                
-                    <li class="relative overflow-hidden text-base capitalize text-paragraph pb-2.5 before:absolute before:bottom-0 before:left-0 before:h-[2px] before:w-full before:origin-right before:scale-x-0 before:bg-paragraph dark:before:bg-white  before:transition-transform before:duration-500 duration-500 before:content-[''] before:hover:origin-left before:hover:scale-x-100">
-                        <a href="/alean/testimonial/" class="flex"> 
-                          Testimonial
-                        </a>
-                    </li>
-                
-                    <li class="relative overflow-hidden text-base capitalize text-paragraph pb-2.5 before:absolute before:bottom-0 before:left-0 before:h-[2px] before:w-full before:origin-right before:scale-x-0 before:bg-paragraph dark:before:bg-white  before:transition-transform before:duration-500 duration-500 before:content-[''] before:hover:origin-left before:hover:scale-x-100">
-                        <a href="/alean/faq/" class="flex"> 
-                          FAQ
-                        </a>
-                    </li>
-                
-                    <li class="relative overflow-hidden text-base capitalize text-paragraph pb-2.5 before:absolute before:bottom-0 before:left-0 before:h-[2px] before:w-full before:origin-right before:scale-x-0 before:bg-paragraph dark:before:bg-white  before:transition-transform before:duration-500 duration-500 before:content-[''] before:hover:origin-left before:hover:scale-x-100">
-                        <a href="/alean/login/" class="flex"> 
-                          Log In
-                        </a>
-                    </li>
-                
-                    <li class="relative overflow-hidden text-base capitalize text-paragraph pb-2.5 before:absolute before:bottom-0 before:left-0 before:h-[2px] before:w-full before:origin-right before:scale-x-0 before:bg-paragraph dark:before:bg-white  before:transition-transform before:duration-500 duration-500 before:content-[''] before:hover:origin-left before:hover:scale-x-100">
-                        <a href="/alean/signup/" class="flex"> 
-                          Sign Up
-                        </a>
-                    </li>
-                
-              </ul>
-            </li>
-            
-          
-            
-            
-            <li class="relative group">
-              <a
-                href="javascript:void(0)"
-                class="font-Inter flex items-center text-base font-medium leading-8 text-paragraph dark:text-white py-[5px] px-5 lg:px-4 xl:px-5 border rounded-large border-transparent hover:bg-white hover:border-borderColour dark:hover:bg-dark-200 dark:hover:border-borderColour/10 duration-500 hover:duration-500 transition-colors "
-              >
-              Blogs
-                <i
-                  class="fa-solid fa-angle-down text-paragraph dark:text-white ml-1 group-hover:rotate-180 duration-500 mt-1"
-                ></i>
-              </a>
-              <ul
-                class="absolute w-full min-w-[250px] left-0 top-12  p-5   opacity-0 scale-y-0 origin-top duration-500 group-hover:scale-y-100 bg-white dark:bg-dark-200  group-hover:opacity-100 rounded-md [&>*:not(:last-child)]:border-b [&>*:not(:last-child)]:border-dashed [&>*:not(:last-child)]:border-borderColour dark:[&>*:not(:last-child)]:border-borderColour-dark [&>*:not(:first-child)]:mt-2.5 z-10"
-              >
-                
-                    <li class="relative overflow-hidden text-base capitalize text-paragraph pb-2.5 before:absolute before:bottom-0 before:left-0 before:h-[2px] before:w-full before:origin-right before:scale-x-0 before:bg-paragraph dark:before:bg-white  before:transition-transform before:duration-500 duration-500 before:content-[''] before:hover:origin-left before:hover:scale-x-100">
-                        <a href="/alean/blog/" class="flex"> 
-                          Blog Grid
-                        </a>
-                    </li>
-                
-                    <li class="relative overflow-hidden text-base capitalize text-paragraph pb-2.5 before:absolute before:bottom-0 before:left-0 before:h-[2px] before:w-full before:origin-right before:scale-x-0 before:bg-paragraph dark:before:bg-white  before:transition-transform before:duration-500 duration-500 before:content-[''] before:hover:origin-left before:hover:scale-x-100">
-                        <a href="/alean/blog-list/" class="flex"> 
-                          Blog List
-                        </a>
-                    </li>
-                
-                    <li class="relative overflow-hidden text-base capitalize text-paragraph pb-2.5 before:absolute before:bottom-0 before:left-0 before:h-[2px] before:w-full before:origin-right before:scale-x-0 before:bg-paragraph dark:before:bg-white  before:transition-transform before:duration-500 duration-500 before:content-[''] before:hover:origin-left before:hover:scale-x-100">
-                        <a href="/alean/categories/acounting/" class="flex"> 
-                          Categories
-                        </a>
-                    </li>
-                
-                    <li class="relative overflow-hidden text-base capitalize text-paragraph pb-2.5 before:absolute before:bottom-0 before:left-0 before:h-[2px] before:w-full before:origin-right before:scale-x-0 before:bg-paragraph dark:before:bg-white  before:transition-transform before:duration-500 duration-500 before:content-[''] before:hover:origin-left before:hover:scale-x-100">
-                        <a href="/alean/tags/acounting/" class="flex"> 
-                          Tags
-                        </a>
-                    </li>
-                
-              </ul>
             </li>
             
           
@@ -596,11 +262,24 @@
             
             <li>
               <a
-              href="http://localhost:1313/alean/contact/"
+              href="http://localhost:1313/alean/"
                 class="relative overflow-hidden text-base capitalize text-paragraph pb-2.5 before:absolute before:bottom-0 before:left-0 before:h-[2px] before:w-full before:origin-right before:scale-x-0 before:bg-paragraph dark:before:bg-white  before:transition-transform before:duration-500 duration-500 before:content-[''] before:hover:origin-left before:hover:scale-x-100  a "
               >
               
-              Contact Us
+              Fonds
+              </a>
+            </li>
+            
+          
+            
+            
+            <li>
+              <a
+              href="http://localhost:1313/alean/"
+                class="relative overflow-hidden text-base capitalize text-paragraph pb-2.5 before:absolute before:bottom-0 before:left-0 before:h-[2px] before:w-full before:origin-right before:scale-x-0 before:bg-paragraph dark:before:bg-white  before:transition-transform before:duration-500 duration-500 before:content-[''] before:hover:origin-left before:hover:scale-x-100  a "
+              >
+              
+              Standort
               </a>
             </li>
             
@@ -656,139 +335,6 @@
     </div>
     <div class="grid grid-cols-12 max-md:gap-y-25 md:gap-5 lg:gap-8">
       
-
-        <article
-          class="bg-white dark:bg-dark-200 rounded-medium p-2.5 shadow-nav scale-100 hover:scale-105 transition-transform duration-500 hover:transition-transform hover:duration-500 h-full max-sm:col-span-full max-md:col-span-6 col-span-4 [&>*:not(:last-child)]:mb-8"
-        >
-          <div class="border border-dashed rounded border-gray-100 dark:border-borderColour-dark p-6 max-md:p-4 h-full">
-            <div class="">
-              <a href="http://localhost:1313/alean/tags/finance/" class="block">
-                <h3 class="mb-1 font-semibold leading-[1.33]">
-                  Finance
-                </h3>
-              </a>
-              <div class="flex gap-x-2 items-center mb-2">
-                <p> 3 posts</p>
-              </div>
-            </div>
-          </div>
-        </article>
-
-      
-
-        <article
-          class="bg-white dark:bg-dark-200 rounded-medium p-2.5 shadow-nav scale-100 hover:scale-105 transition-transform duration-500 hover:transition-transform hover:duration-500 h-full max-sm:col-span-full max-md:col-span-6 col-span-4 [&>*:not(:last-child)]:mb-8"
-        >
-          <div class="border border-dashed rounded border-gray-100 dark:border-borderColour-dark p-6 max-md:p-4 h-full">
-            <div class="">
-              <a href="http://localhost:1313/alean/tags/acounting/" class="block">
-                <h3 class="mb-1 font-semibold leading-[1.33]">
-                  Acounting
-                </h3>
-              </a>
-              <div class="flex gap-x-2 items-center mb-2">
-                <p> 1 post</p>
-              </div>
-            </div>
-          </div>
-        </article>
-
-      
-
-        <article
-          class="bg-white dark:bg-dark-200 rounded-medium p-2.5 shadow-nav scale-100 hover:scale-105 transition-transform duration-500 hover:transition-transform hover:duration-500 h-full max-sm:col-span-full max-md:col-span-6 col-span-4 [&>*:not(:last-child)]:mb-8"
-        >
-          <div class="border border-dashed rounded border-gray-100 dark:border-borderColour-dark p-6 max-md:p-4 h-full">
-            <div class="">
-              <a href="http://localhost:1313/alean/tags/banking/" class="block">
-                <h3 class="mb-1 font-semibold leading-[1.33]">
-                  Banking
-                </h3>
-              </a>
-              <div class="flex gap-x-2 items-center mb-2">
-                <p> 1 post</p>
-              </div>
-            </div>
-          </div>
-        </article>
-
-      
-
-        <article
-          class="bg-white dark:bg-dark-200 rounded-medium p-2.5 shadow-nav scale-100 hover:scale-105 transition-transform duration-500 hover:transition-transform hover:duration-500 h-full max-sm:col-span-full max-md:col-span-6 col-span-4 [&>*:not(:last-child)]:mb-8"
-        >
-          <div class="border border-dashed rounded border-gray-100 dark:border-borderColour-dark p-6 max-md:p-4 h-full">
-            <div class="">
-              <a href="http://localhost:1313/alean/tags/benefits/" class="block">
-                <h3 class="mb-1 font-semibold leading-[1.33]">
-                  Benefits
-                </h3>
-              </a>
-              <div class="flex gap-x-2 items-center mb-2">
-                <p> 1 post</p>
-              </div>
-            </div>
-          </div>
-        </article>
-
-      
-
-        <article
-          class="bg-white dark:bg-dark-200 rounded-medium p-2.5 shadow-nav scale-100 hover:scale-105 transition-transform duration-500 hover:transition-transform hover:duration-500 h-full max-sm:col-span-full max-md:col-span-6 col-span-4 [&>*:not(:last-child)]:mb-8"
-        >
-          <div class="border border-dashed rounded border-gray-100 dark:border-borderColour-dark p-6 max-md:p-4 h-full">
-            <div class="">
-              <a href="http://localhost:1313/alean/tags/marketing/" class="block">
-                <h3 class="mb-1 font-semibold leading-[1.33]">
-                  Marketing
-                </h3>
-              </a>
-              <div class="flex gap-x-2 items-center mb-2">
-                <p> 1 post</p>
-              </div>
-            </div>
-          </div>
-        </article>
-
-      
-
-        <article
-          class="bg-white dark:bg-dark-200 rounded-medium p-2.5 shadow-nav scale-100 hover:scale-105 transition-transform duration-500 hover:transition-transform hover:duration-500 h-full max-sm:col-span-full max-md:col-span-6 col-span-4 [&>*:not(:last-child)]:mb-8"
-        >
-          <div class="border border-dashed rounded border-gray-100 dark:border-borderColour-dark p-6 max-md:p-4 h-full">
-            <div class="">
-              <a href="http://localhost:1313/alean/tags/payment/" class="block">
-                <h3 class="mb-1 font-semibold leading-[1.33]">
-                  Payment
-                </h3>
-              </a>
-              <div class="flex gap-x-2 items-center mb-2">
-                <p> 1 post</p>
-              </div>
-            </div>
-          </div>
-        </article>
-
-      
-
-        <article
-          class="bg-white dark:bg-dark-200 rounded-medium p-2.5 shadow-nav scale-100 hover:scale-105 transition-transform duration-500 hover:transition-transform hover:duration-500 h-full max-sm:col-span-full max-md:col-span-6 col-span-4 [&>*:not(:last-child)]:mb-8"
-        >
-          <div class="border border-dashed rounded border-gray-100 dark:border-borderColour-dark p-6 max-md:p-4 h-full">
-            <div class="">
-              <a href="http://localhost:1313/alean/tags/research/" class="block">
-                <h3 class="mb-1 font-semibold leading-[1.33]">
-                  Research
-                </h3>
-              </a>
-              <div class="flex gap-x-2 items-center mb-2">
-                <p> 1 post</p>
-              </div>
-            </div>
-          </div>
-        </article>
-
-      
     </div>
   </div>
 </section>
@@ -801,7 +347,7 @@
     <div class="grid grid-cols-12 mb-20 max-lg:gap-y-10 max-lg:text-center">
       <div class="col-span-12 lg:col-span-6">
         <img
-          src="http://localhost:1313/alean/images/logo.svg"
+          src="http://localhost:1313/alean/logo.png"
           alt="logo"
           class="inline-block dark:hidden mb-10"
         />
@@ -818,65 +364,11 @@
         <h3 class="mb-8 font-medium text-lg">Explore</h3>
         <ul class="[&>*:not(:last-child)]:mb-3">
           
-          <li>
-            <a
-              href="/alean/about/"
-              class="relative inline-block overflow-hidden text-base capitalize text-paragraph dark:text-white before:absolute before:bottom-0 before:left-0 before:h-[1px] before:w-full before:origin-right before:scale-x-0 before:bg-paragraph dark:before:bg-white  before:transition-transform before:duration-500 before:content-[''] before:hover:origin-left before:hover:scale-x-100"
-            >
-            About
-            </a>
-          </li>
-          
-          <li>
-            <a
-              href="/alean/home-3/"
-              class="relative inline-block overflow-hidden text-base capitalize text-paragraph dark:text-white before:absolute before:bottom-0 before:left-0 before:h-[1px] before:w-full before:origin-right before:scale-x-0 before:bg-paragraph dark:before:bg-white  before:transition-transform before:duration-500 before:content-[''] before:hover:origin-left before:hover:scale-x-100"
-            >
-            Payment
-            </a>
-          </li>
-          
-          <li>
-            <a
-              href="/alean/home-4/"
-              class="relative inline-block overflow-hidden text-base capitalize text-paragraph dark:text-white before:absolute before:bottom-0 before:left-0 before:h-[1px] before:w-full before:origin-right before:scale-x-0 before:bg-paragraph dark:before:bg-white  before:transition-transform before:duration-500 before:content-[''] before:hover:origin-left before:hover:scale-x-100"
-            >
-            Analytics
-            </a>
-          </li>
-          
         </ul>
       </div>
       <div class="col-span-12 lg:col-span-2 max-lg:text-center">
         <h3 class="mb-8 font-medium text-lg">Resources</h3>
         <ul class="[&>*:not(:last-child)]:mb-3">
-          
-          <li>
-            <a
-              href="/alean/services/"
-              class="relative inline-block overflow-hidden text-base capitalize text-paragraph dark:text-white before:absolute before:bottom-0 before:left-0 before:h-[1px] before:w-full before:origin-right before:scale-x-0 before:bg-paragraph dark:before:bg-white  before:transition-transform before:duration-500 before:content-[''] before:hover:origin-left before:hover:scale-x-100"
-            >
-            Services
-            </a>
-          </li>
-          
-          <li>
-            <a
-              href="/alean/team/"
-              class="relative inline-block overflow-hidden text-base capitalize text-paragraph dark:text-white before:absolute before:bottom-0 before:left-0 before:h-[1px] before:w-full before:origin-right before:scale-x-0 before:bg-paragraph dark:before:bg-white  before:transition-transform before:duration-500 before:content-[''] before:hover:origin-left before:hover:scale-x-100"
-            >
-            Team
-            </a>
-          </li>
-          
-          <li>
-            <a
-              href="/alean/integration/"
-              class="relative inline-block overflow-hidden text-base capitalize text-paragraph dark:text-white before:absolute before:bottom-0 before:left-0 before:h-[1px] before:w-full before:origin-right before:scale-x-0 before:bg-paragraph dark:before:bg-white  before:transition-transform before:duration-500 before:content-[''] before:hover:origin-left before:hover:scale-x-100"
-            >
-            Integration
-            </a>
-          </li>
           
         </ul>
       </div>
