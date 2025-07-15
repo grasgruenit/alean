@@ -1,60 +1,53 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Teams on Alean (Capital) AG</title>
-    <link>http://localhost:1313/alean/team/</link>
-    <description>Recent content in Teams on Alean (Capital) AG</description>
+    <title>Das Kernteam der Alean&amp;nbsp;(Capital)&amp;nbsp;AG on Alean (Capital) AG</title>
+    <link>http://localhost:53233/alean/team/</link>
+    <description>Recent content in Das Kernteam der Alean&amp;nbsp;(Capital)&amp;nbsp;AG on Alean (Capital) AG</description>
     <generator>Hugo</generator>
     <language>de-li</language>
-    <atom:link href="http://localhost:1313/alean/team/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:53233/alean/team/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Alessndro Ciocca</title>
-      <link>http://localhost:1313/alean/team/1/</link>
+      <title>Alessandro Ciocca</title>
+      <link>http://localhost:53233/alean/team/1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/alean/team/1/</guid>
-      <description>&lt;h2 id=&#34;verwaltungsratspräsident-und-mitglied-der-geschäftsleitung&#34;&gt;Verwaltungsratspräsident und Mitglied der Geschäftsleitung&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;lic. oec. publ. Uni Lausanne&lt;/li&gt;&#xA;&lt;li&gt;35 Jahre Erfahrung im Finanzbereich&lt;/li&gt;&#xA;&lt;li&gt;Gründer von Studio A. Ciocca SA, Lugano im Jahre 1990&lt;/li&gt;&#xA;&lt;li&gt;Ehemaliger Vizepräsident VSV (Verband der Schweizerischen Vermögensverwalter)&lt;/li&gt;&#xA;&lt;li&gt;Ehemaliges Mitglied des Präsidialausschusses des VSV&lt;/li&gt;&#xA;&lt;li&gt;Ehemaliges Mitglied der Geschäftsleitung der SRO (Selbstregulierungsorganisation) der VSV&lt;/li&gt;&#xA;&lt;li&gt;Ehemaliges Mitglied der Aufsichtskommission für Treuhandgeschäfte des Kanton Tessin (Schweiz)&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+      <guid>http://localhost:53233/alean/team/1/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;lic. oec. publ. Uni Lausanne&lt;/li&gt;&#xA;&lt;li&gt;35 Jahre Erfahrung im Finanzbereich&lt;/li&gt;&#xA;&lt;li&gt;Gründer von Studio A. Ciocca SA, Lugano im Jahre 1990&lt;/li&gt;&#xA;&lt;li&gt;Ehemaliger Vizepräsident VSV (Verband der Schweizerischen Vermögensverwalter)&lt;/li&gt;&#xA;&lt;li&gt;Ehemaliges Mitglied des Präsidialausschusses des VSV&lt;/li&gt;&#xA;&lt;li&gt;Ehemaliges Mitglied der Geschäftsleitung der SRO (Selbstregulierungsorganisation) der VSV&lt;/li&gt;&#xA;&lt;li&gt;Ehemaliges Mitglied der Aufsichtskommission für Treuhandgeschäfte des Kanton Tessin (Schweiz)&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Alexandru Rif</title>
-      <link>http://localhost:1313/alean/team/5/</link>
+      <link>http://localhost:53233/alean/team/5/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/alean/team/5/</guid>
-      <description>&lt;h2 id=&#34;junior-portfolio-manager-top-world-equity-fund&#34;&gt;Junior Portfolio Manager Top World Equity Fund&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Master in Banking and Finance (HSG)&lt;/li&gt;&#xA;&lt;li&gt;Research Assistant at the Institute for Operations Research and Computational Finance (HSG)&lt;/li&gt;&#xA;&lt;li&gt;Diverse Praktika und Tätigkeiten im Bereich Retail- und Investment Banking sowie im Consulting Bereich&lt;/li&gt;&#xA;&lt;li&gt;Mehrere Jahre Erfahrung im Finanzbereich&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
-    </item>
-    <item>
-      <title>Elke Grob</title>
-      <link>http://localhost:1313/alean/team/7/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/alean/team/7/</guid>
-      <description>&lt;h2 id=&#34;mitarbeiterin--administration&#34;&gt;Mitarbeiterin / Administration&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Kaufmännische Bankausbildung&lt;/li&gt;&#xA;&lt;li&gt;Assistentin Private Banking&lt;/li&gt;&#xA;&lt;li&gt;10 Jahre Erfahrung im Finanzbereich&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+      <guid>http://localhost:53233/alean/team/5/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;Master in Banking and Finance (HSG)&lt;/li&gt;&#xA;&lt;li&gt;Research Assistant at the Institute for Operations Research and Computational Finance (HSG)&lt;/li&gt;&#xA;&lt;li&gt;Diverse Praktika und Tätigkeiten im Bereich Retail- und Investment Banking sowie im Consulting Bereich&lt;/li&gt;&#xA;&lt;li&gt;Mehrere Jahre Erfahrung im Finanzbereich&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Heinz Neusüss</title>
-      <link>http://localhost:1313/alean/team/2/</link>
+      <link>http://localhost:53233/alean/team/2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/alean/team/2/</guid>
-      <description>&lt;h2 id=&#34;mitglied-der-geschäftsleitung&#34;&gt;Mitglied der Geschäftsleitung&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;eidg. dipl. Bankfachexperte&lt;/li&gt;&#xA;&lt;li&gt;Executive Master of Banking / IFZ Institut für Finanzdienstleistungen / Hochschule für Wirtschaft HSW Luzern&lt;/li&gt;&#xA;&lt;li&gt;Portfolio Management Ausbildung / Hochschule für Wirtschaft HSW Luzern&lt;/li&gt;&#xA;&lt;li&gt;25 Jahre Erfahrung im Finanzbereich mit Führungs- und Fach- und Projektverantwortung&lt;/li&gt;&#xA;&lt;li&gt;Tätigkeiten im Bereich Handel und Portfolio Management&lt;/li&gt;&#xA;&lt;li&gt;Leiter Private Banking und Institutionelle Kunden&lt;/li&gt;&#xA;&lt;li&gt;Mitglied diverser Anlageausschüsse&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+      <guid>http://localhost:53233/alean/team/2/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;eidg. dipl. Bankfachexperte&lt;/li&gt;&#xA;&lt;li&gt;Executive Master of Banking / IFZ Institut für Finanzdienstleistungen / Hochschule für Wirtschaft HSW Luzern&lt;/li&gt;&#xA;&lt;li&gt;Portfolio Management Ausbildung / Hochschule für Wirtschaft HSW Luzern&lt;/li&gt;&#xA;&lt;li&gt;25 Jahre Erfahrung im Finanzbereich mit Führungs- und Fach- und Projektverantwortung&lt;/li&gt;&#xA;&lt;li&gt;Tätigkeiten im Bereich Handel und Portfolio Management&lt;/li&gt;&#xA;&lt;li&gt;Leiter Private Banking und Institutionelle Kunden&lt;/li&gt;&#xA;&lt;li&gt;Mitglied diverser Anlageausschüsse&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Marina Wohlwend</title>
-      <link>http://localhost:1313/alean/team/4/</link>
+      <link>http://localhost:53233/alean/team/4/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/alean/team/4/</guid>
-      <description>&lt;h2 id=&#34;assistentin-der-geschäftsleitung&#34;&gt;Assistentin der Geschäftsleitung&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Kaufmännische Bankausbildung&lt;/li&gt;&#xA;&lt;li&gt;Assistentin Leitung Private Banking und Firmenkunden sowie Institutionelle Kunden bei CH und FL Banken&lt;/li&gt;&#xA;&lt;li&gt;25 Jahre Erfahrung im Finanzbereich mit Fach- und Projektverantwortungen&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+      <guid>http://localhost:53233/alean/team/4/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;Kaufmännische Bankausbildung&lt;/li&gt;&#xA;&lt;li&gt;Assistentin Leitung Private Banking und Firmenkunden sowie Institutionelle Kunden bei CH und FL Banken&lt;/li&gt;&#xA;&lt;li&gt;25 Jahre Erfahrung im Finanzbereich mit Fach- und Projektverantwortungen&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Sandra Bettinelli</title>
-      <link>http://localhost:1313/alean/team/6/</link>
+      <link>http://localhost:53233/alean/team/6/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/alean/team/6/</guid>
-      <description>&lt;h2 id=&#34;mitarbeiterin--administration&#34;&gt;Mitarbeiterin / Administration&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Kaufmännische Bankausbildung&lt;/li&gt;&#xA;&lt;li&gt;Assistentin Private Banking und externe Vermögensverwalter bei&lt;br&gt;&#xA;CH Banken&lt;/li&gt;&#xA;&lt;li&gt;Assistentin bei CH Treuhandgesellschaft&lt;/li&gt;&#xA;&lt;li&gt;25 Jahre Erfahrung im Finanzbereich&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+      <guid>http://localhost:53233/alean/team/6/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;Kaufmännische Bankausbildung&lt;/li&gt;&#xA;&lt;li&gt;Assistentin Private Banking und externe Vermögensverwalter bei&lt;br&gt;&#xA;CH Banken&lt;/li&gt;&#xA;&lt;li&gt;Assistentin bei CH Treuhandgesellschaft&lt;/li&gt;&#xA;&lt;li&gt;25 Jahre Erfahrung im Finanzbereich&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Stefan Vedana</title>
-      <link>http://localhost:1313/alean/team/3/</link>
+      <link>http://localhost:53233/alean/team/3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/alean/team/3/</guid>
-      <description>&lt;h2 id=&#34;mitglied-der-geschäftsleitung&#34;&gt;Mitglied der Geschäftsleitung&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;dipl. Betriebsökonom&lt;/li&gt;&#xA;&lt;li&gt;Portfolio Management Ausbildung / Hochschule für Wirtschaft HSW Luzern&lt;/li&gt;&#xA;&lt;li&gt;25 Jahre Erfahrung im Finanz- und Treuhandbereich mit Fach- und Projektverantwortung&lt;/li&gt;&#xA;&lt;li&gt;Senior Kundenberater Private Banking und institutionelle Kunden&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+      <guid>http://localhost:53233/alean/team/3/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;dipl. Betriebsökonom&lt;/li&gt;&#xA;&lt;li&gt;Portfolio Management Ausbildung / Hochschule für Wirtschaft HSW Luzern&lt;/li&gt;&#xA;&lt;li&gt;25 Jahre Erfahrung im Finanz- und Treuhandbereich mit Fach- und Projektverantwortung&lt;/li&gt;&#xA;&lt;li&gt;Senior Kundenberater Private Banking und institutionelle Kunden&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
   </channel>
 </rss>

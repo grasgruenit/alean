@@ -9,34 +9,6 @@
     <atom:link href="http://localhost:1313/alean/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>http://localhost:1313/alean/dienstleistungen/1/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/alean/dienstleistungen/1/</guid>
-      <description>&lt;p&gt;Das Angebot deckt über fünf Basisstrategien die ganze Palette der Anlageklassen ab.&lt;/p&gt;&#xA;&lt;p&gt;Wir haben auch eine Reihe von Spezialmandaten, für die wir über verschiedene Assetklassen primär Direktinvestments tätigen.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title></title>
-      <link>http://localhost:1313/alean/dienstleistungen/2/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/alean/dienstleistungen/2/</guid>
-      <description>&lt;p&gt;Im Rahmen des Advisory Mandates entscheiden Sie bei der Veranlagung.&lt;/p&gt;&#xA;&lt;p&gt;Wir begleiten Sie tatkräftig.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title></title>
-      <link>http://localhost:1313/alean/dienstleistungen/3/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/alean/dienstleistungen/3/</guid>
-      <description>&lt;p&gt;Eine Reihe von Fonds werden durch das Asset Management der Alean (Capital) AG verwaltet. Weitere Infos zu den Fondsprodukten erhalten sie unter &lt;a href=&#34;https://www.aleancapital.com/fonds/&#34;&gt;&amp;ldquo;Fonds&amp;rdquo;&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title></title>
-      <link>http://localhost:1313/alean/dienstleistungen/4/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/alean/dienstleistungen/4/</guid>
-      <description>&lt;p&gt;Im Rahmen der Asset Management Services bieten wir eine Reihe von Dienstleistungen an:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Professionelle Asset&lt;/strong&gt; &lt;strong&gt;Allocation Beratung&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Konsolidierung der Vermögenswerte&lt;/strong&gt;&lt;br&gt;&#xA;&lt;strong&gt;über verschiedene&lt;/strong&gt;&lt;br&gt;&#xA;&lt;strong&gt;Bankverbindungen&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Sophistiziertes Reporting&lt;/strong&gt; &lt;strong&gt;inklusive Risikoanalysen&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Bankverbindungen&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Investment Controlling&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Finanzierungsberatung&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Family Office Services&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
-    </item>
-    <item>
-      <title></title>
       <link>http://localhost:1313/alean/downloads/1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/alean/downloads/1/</guid>
@@ -69,6 +41,13 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/alean/fonds/3/</guid>
       <description>&lt;h2 id=&#34;warnung-vor-risiken&#34;&gt;Warnung vor Risiken&lt;/h2&gt;&#xA;&lt;p&gt;Bitte beachten Sie, dass sich der Wert einer Investition steigend wie auch fallend verändern kann. Die zukünftige Performance von Investitionen kann nicht aus der vergangenen Kursentwicklung abgeleitet werden. Die Anlagen können hohen Kursschwankungen ausgesetzt sein. Diese Kursschwankungen können die Höhe des angelegten Betrages ausmachen oder diesen sogar übersteigen. Die Erhaltung des investierten Kapitals kann somit nicht garantiert werden. Bitte beachten Sie auch die Risikohinweise in den Prospekten der einzelnen Fonds.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/alean/impressum/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/alean/impressum/</guid>
+      <description>&lt;h1 id=&#34;impressum&#34;&gt;Impressum&lt;/h1&gt;&#xA;&lt;h2 id=&#34;wesentliche-gesetzliche-vorschriften&#34;&gt;Wesentliche gesetzliche Vorschriften&lt;/h2&gt;&#xA;&lt;p&gt;Als Gesellschaft für Vermögensverwaltung mit Sitz im Fürstentum Liechtenstein unterliegt die Alean (Capital) AG  den gesetzlichen Vorschriften und Regelungen des Fürstentum Liechtenstein.&lt;/p&gt;&#xA;&lt;p&gt;Die wichtigsten Grundlagen sind:&lt;/p&gt;&#xA;&lt;h2 id=&#34;gesetz&#34;&gt;Gesetz&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.gesetze.li/konso/2005.278&#34;&gt;Gesetz über die Vermögensverwaltung (Vermögensverwaltungsgesetz; VVG)&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.gesetze.li/konso/1992.108&#34;&gt;Gesetz über die Banken und Wertpapierfirmen (Bankgesetz; BankG)&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.gesetze.li/konso/2005.156&#34;&gt;Gesetz über Investmentunternehmen für andere Werte oder Immobilien (Investmentunternehmensgestz; IUG)&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.gesetze.li/konso/2009.047&#34;&gt;Gesetz über berufliche Sorgfaltspflichten zur Bekämpfung von Geldwäscherei, organisierter Kriminalität und Terrorismusfinanzierung (Sorgfaltspflichtgesetz; SPG)&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;verordnung&#34;&gt;Verordnung&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.gesetze.li/konso/2005.289&#34;&gt;Verordnung zum Gesetz über die Vermögensverwaltung (Vermögensverwaltungsverordnung; VVO)&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
@@ -110,98 +89,112 @@
       <link>http://localhost:1313/alean/philosophie/1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/alean/philosophie/1/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Dynamischer Anlageprozess / Top-Down Ansatz&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Anlagestrategie – langfristige Aufteilung des Vermögens&lt;/li&gt;&#xA;&lt;li&gt;Anlagetaktik – Abweichungen von der Anlagestrategie&lt;/li&gt;&#xA;&lt;li&gt;Umsetzung mit ausgewählten Anlageinstrumenten&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+      <description>&lt;h3 id=&#34;dynamischer-anlageprozess-top-down-ansatz&#34;&gt;Dynamischer Anlageprozess, Top-Down Ansatz&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;Anlagestrategie&lt;/strong&gt; – langfristige Aufteilung des Vermögens&lt;br&gt;&#xA;&lt;strong&gt;Anlagetaktik&lt;/strong&gt; – Abweichungen von der Anlagestrategie&lt;br&gt;&#xA;&lt;strong&gt;Umsetzung&lt;/strong&gt; mit ausgewählten Anlageinstrumenten&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
       <link>http://localhost:1313/alean/philosophie/2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/alean/philosophie/2/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Aufteilung Anlageklassen&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Maximale Ausschöpfung des Diversifikationspotentials bei gleichzeitiger strategischer Absicherung von Währungsrisiken&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+      <description>&lt;h3 id=&#34;aufteilung-anlageklassen&#34;&gt;Aufteilung Anlageklassen&lt;/h3&gt;&#xA;&lt;p&gt;Maximale Ausschöpfung des Diversifikationspotentials bei gleichzeitiger strategischer Absicherung von Währungsrisiken&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
       <link>http://localhost:1313/alean/philosophie/3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/alean/philosophie/3/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Market Trading / Timing&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Dynamische taktische Abweichungen von der vereinbarten Anlagestrategie zur optimalen Ausnutzung von Marktentwicklungen bzw. kurzfristiger Investmentopportunitäten&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+      <description>&lt;h3 id=&#34;market-trading--timing&#34;&gt;Market Trading / Timing&lt;/h3&gt;&#xA;&lt;p&gt;Dynamische taktische Abweichungen von der vereinbarten Anlagestrategie zur optimalen Ausnutzung von Marktentwicklungen bzw. kurzfristiger Investmentopportunitäten&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
       <link>http://localhost:1313/alean/philosophie/4/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/alean/philosophie/4/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Optimiert und effizient&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Passive, d.h. indexnahe Umsetzung in informationseffizienten Märkten&lt;/li&gt;&#xA;&lt;li&gt;Aktive Umsetzung bzw. Einsatz von aktivem Management in den übrigen Märkten&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+      <description>&lt;h3 id=&#34;optimiert-und-effizient&#34;&gt;Optimiert und effizient&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;Passive&lt;/strong&gt;, d.h. indexnahe Umsetzung in informationseffizienten Märkten&lt;br&gt;&#xA;&lt;strong&gt;Aktive&lt;/strong&gt; Umsetzung bzw. Einsatz von aktivem Management in den übrigen Märkten&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
       <link>http://localhost:1313/alean/werte/1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/alean/werte/1/</guid>
-      <description>&lt;h3 id=&#34;unabhängigkeit&#34;&gt;&lt;strong&gt;Unabhängigkeit&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;wir handeln unabhängig und ohne Interessenkonflikte und haben in unserem Netzwerk keinerlei Verpflichtungen gegenüber Dritten&lt;/p&gt;</description>
+      <description>&lt;h3 id=&#34;unabhängigkeit&#34;&gt;Unabhängigkeit&lt;/h3&gt;&#xA;&lt;p&gt;wir handeln unabhängig und ohne Interessenkonflikte und haben in unserem Netzwerk keinerlei Verpflichtungen gegenüber Dritten&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
       <link>http://localhost:1313/alean/werte/2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/alean/werte/2/</guid>
-      <description>&lt;h3 id=&#34;transparenz&#34;&gt;&lt;strong&gt;Transparenz&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;wir informieren und berichten transparent und umfänglich in regelmässigen Zeitabständen&lt;/p&gt;</description>
+      <description>&lt;h3 id=&#34;transparenz&#34;&gt;Transparenz&lt;/h3&gt;&#xA;&lt;p&gt;wir informieren und berichten transparent und umfänglich in regelmässigen Zeitabständen&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
       <link>http://localhost:1313/alean/werte/3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/alean/werte/3/</guid>
-      <description>&lt;h3 id=&#34;integrität--aufrichtigkeit&#34;&gt;&lt;strong&gt;Integrität – Aufrichtigkeit&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;wir stellen im Team die Interessen des Kunden und sein Vermögen gänzlich in den Mittelpunkt&lt;/p&gt;</description>
+      <description>&lt;h3 id=&#34;integrität---aufrichtigkeit&#34;&gt;Integrität - Aufrichtigkeit&lt;/h3&gt;&#xA;&lt;p&gt;wir stellen im Team die Interessen des Kunden und sein Vermögen gänzlich in den Mittelpunkt&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
       <link>http://localhost:1313/alean/werte/4/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/alean/werte/4/</guid>
-      <description>&lt;h3 id=&#34;verlässlichkeit--diskretion--nachhaltigkeit---kontinuität&#34;&gt;&lt;strong&gt;Verlässlichkeit – Diskretion – Nachhaltigkeit - Kontinuität&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;wir arbeiten für eine vertrauensvolle und langfristige Beziehung zu unseren Kunden&lt;/p&gt;</description>
+      <description>&lt;h3 id=&#34;verlässlichkeit--diskretion--nachhaltigkeit---kontinuität&#34;&gt;Verlässlichkeit – Diskretion – Nachhaltigkeit - Kontinuität&lt;/h3&gt;&#xA;&lt;p&gt;wir arbeiten für eine vertrauensvolle und langfristige Beziehung zu unseren Kunden&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
       <link>http://localhost:1313/alean/werte/5/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/alean/werte/5/</guid>
-      <description>&lt;h3 id=&#34;kosteneffizienz---individualität---flexibilität&#34;&gt;&lt;strong&gt;Kosteneffizienz - Individualität - Flexibilität&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;wir beraten Sie persönlich, individuell, flexibel und umfänglich kostenbewusst&lt;/p&gt;</description>
+      <description>&lt;h3 id=&#34;kosteneffizienz---individualität---flexibilität&#34;&gt;Kosteneffizienz - Individualität - Flexibilität&lt;/h3&gt;&#xA;&lt;p&gt;wir beraten Sie persönlich, individuell, flexibel und umfänglich kostenbewusst&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
       <link>http://localhost:1313/alean/werte/6/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/alean/werte/6/</guid>
-      <description>&lt;h3 id=&#34;maßgeschneidert---sicher---exzellent&#34;&gt;&lt;strong&gt;Maßgeschneidert - sicher - exzellent&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;Maßgeschneiderte Finanzlösungen, hohe Servicequalität und maximale Sicherheit. Unsere erfahrenen Finanzexperten investieren diszipliniert nach modernsten Anlagegrundsätzen (aktiv, passiv, Best-in-Class) und überwachen laufend die Märkte sowie Ihr Risikoprofil.&lt;/p&gt;</description>
+      <description>&lt;h3 id=&#34;maßgeschneidert---service---sicherheit&#34;&gt;Maßgeschneidert - Service - Sicherheit&lt;/h3&gt;&#xA;&lt;p&gt;Maßgeschneiderte Finanzlösungen, hohe Servicequalität und maximale Sicherheit. Unsere erfahrenen Finanzexperten investieren diszipliniert nach modernsten Anlagegrundsätzen (aktiv, passiv, Best-in-Class) und überwachen laufend die Märkte sowie Ihr Risikoprofil.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Alessndro Ciocca</title>
+      <title>Alessandro Ciocca</title>
       <link>http://localhost:1313/alean/team/1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/alean/team/1/</guid>
-      <description>&lt;h2 id=&#34;verwaltungsratspräsident-und-mitglied-der-geschäftsleitung&#34;&gt;Verwaltungsratspräsident und Mitglied der Geschäftsleitung&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;lic. oec. publ. Uni Lausanne&lt;/li&gt;&#xA;&lt;li&gt;35 Jahre Erfahrung im Finanzbereich&lt;/li&gt;&#xA;&lt;li&gt;Gründer von Studio A. Ciocca SA, Lugano im Jahre 1990&lt;/li&gt;&#xA;&lt;li&gt;Ehemaliger Vizepräsident VSV (Verband der Schweizerischen Vermögensverwalter)&lt;/li&gt;&#xA;&lt;li&gt;Ehemaliges Mitglied des Präsidialausschusses des VSV&lt;/li&gt;&#xA;&lt;li&gt;Ehemaliges Mitglied der Geschäftsleitung der SRO (Selbstregulierungsorganisation) der VSV&lt;/li&gt;&#xA;&lt;li&gt;Ehemaliges Mitglied der Aufsichtskommission für Treuhandgeschäfte des Kanton Tessin (Schweiz)&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;lic. oec. publ. Uni Lausanne&lt;/li&gt;&#xA;&lt;li&gt;35 Jahre Erfahrung im Finanzbereich&lt;/li&gt;&#xA;&lt;li&gt;Gründer von Studio A. Ciocca SA, Lugano im Jahre 1990&lt;/li&gt;&#xA;&lt;li&gt;Ehemaliger Vizepräsident VSV (Verband der Schweizerischen Vermögensverwalter)&lt;/li&gt;&#xA;&lt;li&gt;Ehemaliges Mitglied des Präsidialausschusses des VSV&lt;/li&gt;&#xA;&lt;li&gt;Ehemaliges Mitglied der Geschäftsleitung der SRO (Selbstregulierungsorganisation) der VSV&lt;/li&gt;&#xA;&lt;li&gt;Ehemaliges Mitglied der Aufsichtskommission für Treuhandgeschäfte des Kanton Tessin (Schweiz)&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Alexandru Rif</title>
       <link>http://localhost:1313/alean/team/5/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/alean/team/5/</guid>
-      <description>&lt;h2 id=&#34;junior-portfolio-manager-top-world-equity-fund&#34;&gt;Junior Portfolio Manager Top World Equity Fund&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Master in Banking and Finance (HSG)&lt;/li&gt;&#xA;&lt;li&gt;Research Assistant at the Institute for Operations Research and Computational Finance (HSG)&lt;/li&gt;&#xA;&lt;li&gt;Diverse Praktika und Tätigkeiten im Bereich Retail- und Investment Banking sowie im Consulting Bereich&lt;/li&gt;&#xA;&lt;li&gt;Mehrere Jahre Erfahrung im Finanzbereich&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;Master in Banking and Finance (HSG)&lt;/li&gt;&#xA;&lt;li&gt;Research Assistant at the Institute for Operations Research and Computational Finance (HSG)&lt;/li&gt;&#xA;&lt;li&gt;Diverse Praktika und Tätigkeiten im Bereich Retail- und Investment Banking sowie im Consulting Bereich&lt;/li&gt;&#xA;&lt;li&gt;Mehrere Jahre Erfahrung im Finanzbereich&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
-      <title>Elke Grob</title>
-      <link>http://localhost:1313/alean/team/7/</link>
+      <title>Anlageberatung / Investment Advisory</title>
+      <link>http://localhost:1313/alean/dienstleistungen/2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/alean/team/7/</guid>
-      <description>&lt;h2 id=&#34;mitarbeiterin--administration&#34;&gt;Mitarbeiterin / Administration&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Kaufmännische Bankausbildung&lt;/li&gt;&#xA;&lt;li&gt;Assistentin Private Banking&lt;/li&gt;&#xA;&lt;li&gt;10 Jahre Erfahrung im Finanzbereich&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+      <guid>http://localhost:1313/alean/dienstleistungen/2/</guid>
+      <description>&lt;p&gt;Im Rahmen des Advisory Mandates entscheiden Sie bei der Veranlagung.&lt;/p&gt;&#xA;&lt;p&gt;Wir begleiten Sie tatkräftig.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Asset Management Services</title>
+      <link>http://localhost:1313/alean/dienstleistungen/4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/alean/dienstleistungen/4/</guid>
+      <description>&lt;p&gt;Im Rahmen der Asset Management Services bieten wir eine Reihe von Dienstleistungen an:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Professionelle Asset&lt;/strong&gt; &lt;strong&gt;Allocation Beratung&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Konsolidierung der Vermögenswerte&lt;/strong&gt;&lt;br&gt;&#xA;&lt;strong&gt;über verschiedene&lt;/strong&gt;&lt;br&gt;&#xA;&lt;strong&gt;Bankverbindungen&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Sophistiziertes Reporting&lt;/strong&gt; &lt;strong&gt;inklusive Risikoanalysen&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Bankverbindungen&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Investment Controlling&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Finanzierungsberatung&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Family Office Services&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Fonds Management</title>
+      <link>http://localhost:1313/alean/dienstleistungen/3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/alean/dienstleistungen/3/</guid>
+      <description>&lt;p&gt;Eine Reihe von Fonds werden durch das Asset Management der Alean (Capital) AG verwaltet. Weitere Infos zu den Fondsprodukten erhalten sie unter &lt;a href=&#34;https://www.aleancapital.com/fonds/&#34;&gt;&amp;ldquo;Fonds&amp;rdquo;&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Heinz Neusüss</title>
       <link>http://localhost:1313/alean/team/2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/alean/team/2/</guid>
-      <description>&lt;h2 id=&#34;mitglied-der-geschäftsleitung&#34;&gt;Mitglied der Geschäftsleitung&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;eidg. dipl. Bankfachexperte&lt;/li&gt;&#xA;&lt;li&gt;Executive Master of Banking / IFZ Institut für Finanzdienstleistungen / Hochschule für Wirtschaft HSW Luzern&lt;/li&gt;&#xA;&lt;li&gt;Portfolio Management Ausbildung / Hochschule für Wirtschaft HSW Luzern&lt;/li&gt;&#xA;&lt;li&gt;25 Jahre Erfahrung im Finanzbereich mit Führungs- und Fach- und Projektverantwortung&lt;/li&gt;&#xA;&lt;li&gt;Tätigkeiten im Bereich Handel und Portfolio Management&lt;/li&gt;&#xA;&lt;li&gt;Leiter Private Banking und Institutionelle Kunden&lt;/li&gt;&#xA;&lt;li&gt;Mitglied diverser Anlageausschüsse&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;eidg. dipl. Bankfachexperte&lt;/li&gt;&#xA;&lt;li&gt;Executive Master of Banking / IFZ Institut für Finanzdienstleistungen / Hochschule für Wirtschaft HSW Luzern&lt;/li&gt;&#xA;&lt;li&gt;Portfolio Management Ausbildung / Hochschule für Wirtschaft HSW Luzern&lt;/li&gt;&#xA;&lt;li&gt;25 Jahre Erfahrung im Finanzbereich mit Führungs- und Fach- und Projektverantwortung&lt;/li&gt;&#xA;&lt;li&gt;Tätigkeiten im Bereich Handel und Portfolio Management&lt;/li&gt;&#xA;&lt;li&gt;Leiter Private Banking und Institutionelle Kunden&lt;/li&gt;&#xA;&lt;li&gt;Mitglied diverser Anlageausschüsse&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Ihr Partner für unabhängige Vermögensverwaltung aus Liechtenstein.</title>
@@ -215,21 +208,28 @@
       <link>http://localhost:1313/alean/team/4/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/alean/team/4/</guid>
-      <description>&lt;h2 id=&#34;assistentin-der-geschäftsleitung&#34;&gt;Assistentin der Geschäftsleitung&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Kaufmännische Bankausbildung&lt;/li&gt;&#xA;&lt;li&gt;Assistentin Leitung Private Banking und Firmenkunden sowie Institutionelle Kunden bei CH und FL Banken&lt;/li&gt;&#xA;&lt;li&gt;25 Jahre Erfahrung im Finanzbereich mit Fach- und Projektverantwortungen&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;Kaufmännische Bankausbildung&lt;/li&gt;&#xA;&lt;li&gt;Assistentin Leitung Private Banking und Firmenkunden sowie Institutionelle Kunden bei CH und FL Banken&lt;/li&gt;&#xA;&lt;li&gt;25 Jahre Erfahrung im Finanzbereich mit Fach- und Projektverantwortungen&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Sandra Bettinelli</title>
       <link>http://localhost:1313/alean/team/6/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/alean/team/6/</guid>
-      <description>&lt;h2 id=&#34;mitarbeiterin--administration&#34;&gt;Mitarbeiterin / Administration&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Kaufmännische Bankausbildung&lt;/li&gt;&#xA;&lt;li&gt;Assistentin Private Banking und externe Vermögensverwalter bei&lt;br&gt;&#xA;CH Banken&lt;/li&gt;&#xA;&lt;li&gt;Assistentin bei CH Treuhandgesellschaft&lt;/li&gt;&#xA;&lt;li&gt;25 Jahre Erfahrung im Finanzbereich&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;Kaufmännische Bankausbildung&lt;/li&gt;&#xA;&lt;li&gt;Assistentin Private Banking und externe Vermögensverwalter bei&lt;br&gt;&#xA;CH Banken&lt;/li&gt;&#xA;&lt;li&gt;Assistentin bei CH Treuhandgesellschaft&lt;/li&gt;&#xA;&lt;li&gt;25 Jahre Erfahrung im Finanzbereich&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Stefan Vedana</title>
       <link>http://localhost:1313/alean/team/3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/alean/team/3/</guid>
-      <description>&lt;h2 id=&#34;mitglied-der-geschäftsleitung&#34;&gt;Mitglied der Geschäftsleitung&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;dipl. Betriebsökonom&lt;/li&gt;&#xA;&lt;li&gt;Portfolio Management Ausbildung / Hochschule für Wirtschaft HSW Luzern&lt;/li&gt;&#xA;&lt;li&gt;25 Jahre Erfahrung im Finanz- und Treuhandbereich mit Fach- und Projektverantwortung&lt;/li&gt;&#xA;&lt;li&gt;Senior Kundenberater Private Banking und institutionelle Kunden&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;dipl. Betriebsökonom&lt;/li&gt;&#xA;&lt;li&gt;Portfolio Management Ausbildung / Hochschule für Wirtschaft HSW Luzern&lt;/li&gt;&#xA;&lt;li&gt;25 Jahre Erfahrung im Finanz- und Treuhandbereich mit Fach- und Projektverantwortung&lt;/li&gt;&#xA;&lt;li&gt;Senior Kundenberater Private Banking und institutionelle Kunden&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Vermögensverwaltung</title>
+      <link>http://localhost:1313/alean/dienstleistungen/1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/alean/dienstleistungen/1/</guid>
+      <description>&lt;p&gt;Das Angebot deckt über fünf Basisstrategien die ganze Palette der Anlageklassen ab.&lt;/p&gt;&#xA;&lt;p&gt;Wir haben auch eine Reihe von Spezialmandaten, für die wir über verschiedene Assetklassen primär Direktinvestments tätigen.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;csm_Rolle-als-Vermoegensverwalter.png&#34; alt=&#34;Unsere Rolle als unabhängiger Vermögensverwalter&#34;&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

@@ -13,34 +13,11 @@ theme= 'aplio'
     [markup.goldmark.renderer]
       hardWraps = true
 	  
-[menus]
-  # Main Menu
-    [[menus.main]]
-    name = "Dienstleistungen"
-    identifier = "services"
-    pageRef = ""
-    weight = 2
-    [[menus.main]]
-    name = "Team"
-    identifier = "team"
-    pageRef = ""
-    weight = 3
-    [[menus.main]]
-    name = "Fonds"
-    identifier = "pages"
-    pageRef = ""
-    weight = 4
-    [[menus.main]]
-	name = "Standort"
-	identifier = "contact"
-	pageRef  = "/contact"
-	weight = 6
-	
 
   
 [params]
   logo = "logo.png"
-  logoDark = "images/logo-light.svg"
+  logoDark = "logo.png"
   footerDescription = "Turpis tortor nunc sed amet et faucibus vitae morbi congue sed id mauris."
   copyright = "@ 2025 Aplio. All Rights Reserved"
   contactMail = "info@example.com"

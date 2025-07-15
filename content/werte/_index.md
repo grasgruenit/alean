@@ -1,3 +1,5 @@
 ---
-Title: 'Unsere Werte / Ihr Nutzen'
+Title: 'Unsere Werte'
 ---
+
+Ihr Nutzen
