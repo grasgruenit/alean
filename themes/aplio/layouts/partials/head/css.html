@@ -4,7 +4,7 @@
   {{- if eq hugo.Environment "development" }}
     <link rel="stylesheet" href="{{ .Permalink }}">
   {{- else }}
-  {{- with . | minify | fingerprint | resources.PostCSS}}
+  {{- with . | minify | fingerprint | css.PostCSS}}
       <link rel="stylesheet" href="{{ .Permalink }}" >
   {{- end }}
   {{- end }}
