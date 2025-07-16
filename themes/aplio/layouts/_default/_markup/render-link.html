@@ -1,0 +1,12 @@
+<a href="{{ .Destination | safeURL }}" style="text-decoration:underline" 
+   {{ with .Title }} title="{{ . }}"{{ end }}
+{{ if (strings.HasPrefix .Destination "#") }} class="smooth-scroll-middle"{{ end }}
+{{ if or (strings.HasPrefix .Destination "http") (strings.HasSuffix .Destination ".pdf") (strings.HasSuffix .Destination ".jpg") (strings.HasSuffix .Destination ".html") }} 
+	target="_blank"
+{{ end }}
+>{{ .Text }} 
+{{ if (strings.HasPrefix .Destination "http") }}
+ &nbsp<span style="font-size: 0.7em;"><i class="fa-solid fa-up-right-from-square"></i></span>
+{{ end }}
+</a>
+

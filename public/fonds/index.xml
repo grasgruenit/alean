@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Fonds on Alean (Capital) AG</title>
-    <link>http://localhost:1313/alean/fonds/</link>
+    <link>http://localhost:1313/fonds/</link>
     <description>Recent content in Fonds on Alean (Capital) AG</description>
     <generator>Hugo</generator>
     <language>de-li</language>
-    <atom:link href="http://localhost:1313/alean/fonds/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/fonds/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>http://localhost:1313/alean/fonds/1/</link>
+      <link>http://localhost:1313/fonds/1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/alean/fonds/1/</guid>
-      <description>&lt;h2 id=&#34;angebotsbeschränkung&#34;&gt;Angebotsbeschränkung&lt;/h2&gt;&#xA;&lt;p&gt;Die auf der Webseite der Alean (Capital) AG publizierten Informationen begründen weder eine Aufforderung noch ein Angebot oder eine Empfehlung zum Erwerb oder Verkauf von Fonds. Der Inhalt auf der Webseite ist nicht für Personen bestimmt, die einer Rechtsordnung unterstehen, die die Publikation bzw. den Zugang zu dieser Webseite verbietet (aufgrund der Nationalität der betreffenden Person, ihres Wohnsitzes oder aus anderen Gründen.) Personen, auf die solche Einschränkungen zutreffen, ist der Zugriff auf diese Webseite nicht gestattet.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/fonds/1/</guid>
+      <description>&lt;h3 id=&#34;angebotsbeschränkung&#34;&gt;&lt;strong&gt;Angebotsbeschränkung&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;Die auf der Webseite der Alean (Capital) AG publizierten Informationen begründen weder eine Aufforderung noch ein Angebot oder eine Empfehlung zum Erwerb oder Verkauf von Fonds. Der Inhalt auf der Webseite ist nicht für Personen bestimmt, die einer Rechtsordnung unterstehen, die die Publikation bzw. den Zugang zu dieser Webseite verbietet (aufgrund der Nationalität der betreffenden Person, ihres Wohnsitzes oder aus anderen Gründen.) Personen, auf die solche Einschränkungen zutreffen, ist der Zugriff auf diese Webseite nicht gestattet.&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/alean/fonds/2/</link>
+      <link>http://localhost:1313/fonds/2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/alean/fonds/2/</guid>
-      <description>&lt;h2 id=&#34;ohne-gewähr&#34;&gt;Ohne Gewähr&lt;/h2&gt;&#xA;&lt;p&gt;Die vorliegenden Informationen werden von Alean (Capital) AG unter grösster Sorgfalt zusammengestellt. Alean (Capital) AG übernimmt jedoch keinerlei Gewähr für die Korrektheit, Vollständigkeit und Aktualität der auf den Webseiten enthaltenen Informationen. Der Inhalt der Webseiten kann jederzeit und ohne vorherige Ankündigungen geändert werden. Die Informationen auf den Webseiten stellen keine Entscheidungshilfen dar. Bei Anlageentscheiden lassen Sie sich bitte von qualifizierten Personen beraten.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/fonds/2/</guid>
+      <description>&lt;h3 id=&#34;ohne-gewähr&#34;&gt;&lt;strong&gt;Ohne Gewähr&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;Die vorliegenden Informationen werden von Alean (Capital) AG unter grösster Sorgfalt zusammengestellt. Alean (Capital) AG übernimmt jedoch keinerlei Gewähr für die Korrektheit, Vollständigkeit und Aktualität der auf den Webseiten enthaltenen Informationen. Der Inhalt der Webseiten kann jederzeit und ohne vorherige Ankündigungen geändert werden. Die Informationen auf den Webseiten stellen keine Entscheidungshilfen dar. Bei Anlageentscheiden lassen Sie sich bitte von qualifizierten Personen beraten.&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/alean/fonds/3/</link>
+      <link>http://localhost:1313/fonds/3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/alean/fonds/3/</guid>
-      <description>&lt;h2 id=&#34;warnung-vor-risiken&#34;&gt;Warnung vor Risiken&lt;/h2&gt;&#xA;&lt;p&gt;Bitte beachten Sie, dass sich der Wert einer Investition steigend wie auch fallend verändern kann. Die zukünftige Performance von Investitionen kann nicht aus der vergangenen Kursentwicklung abgeleitet werden. Die Anlagen können hohen Kursschwankungen ausgesetzt sein. Diese Kursschwankungen können die Höhe des angelegten Betrages ausmachen oder diesen sogar übersteigen. Die Erhaltung des investierten Kapitals kann somit nicht garantiert werden. Bitte beachten Sie auch die Risikohinweise in den Prospekten der einzelnen Fonds.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/fonds/3/</guid>
+      <description>&lt;h3 id=&#34;warnung-vor-risiken&#34;&gt;&lt;strong&gt;Warnung vor Risiken&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;Bitte beachten Sie, dass sich der Wert einer Investition steigend wie auch fallend verändern kann. Die zukünftige Performance von Investitionen kann nicht aus der vergangenen Kursentwicklung abgeleitet werden. Die Anlagen können hohen Kursschwankungen ausgesetzt sein. Diese Kursschwankungen können die Höhe des angelegten Betrages ausmachen oder diesen sogar übersteigen. Die Erhaltung des investierten Kapitals kann somit nicht garantiert werden. Bitte beachten Sie auch die Risikohinweise in den Prospekten der einzelnen Fonds.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

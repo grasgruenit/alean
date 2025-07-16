@@ -1,1 +1,4 @@
-## Mitgliedschaften und angeschlossene Institutionen
+---
+tagline: 'Mitgliedschaften und angeschlossene Institutionen'
+Title: Partnerschaften
+---

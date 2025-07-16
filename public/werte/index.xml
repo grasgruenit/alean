@@ -2,51 +2,51 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Unsere Werte on Alean (Capital) AG</title>
-    <link>http://localhost:1313/alean/werte/</link>
+    <link>http://localhost:1313/werte/</link>
     <description>Recent content in Unsere Werte on Alean (Capital) AG</description>
     <generator>Hugo</generator>
     <language>de-li</language>
-    <atom:link href="http://localhost:1313/alean/werte/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/werte/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>http://localhost:1313/alean/werte/1/</link>
+      <link>http://localhost:1313/werte/1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/alean/werte/1/</guid>
+      <guid>http://localhost:1313/werte/1/</guid>
       <description>&lt;h3 id=&#34;unabhängigkeit&#34;&gt;Unabhängigkeit&lt;/h3&gt;&#xA;&lt;p&gt;wir handeln unabhängig und ohne Interessenkonflikte und haben in unserem Netzwerk keinerlei Verpflichtungen gegenüber Dritten&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/alean/werte/2/</link>
+      <link>http://localhost:1313/werte/2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/alean/werte/2/</guid>
+      <guid>http://localhost:1313/werte/2/</guid>
       <description>&lt;h3 id=&#34;transparenz&#34;&gt;Transparenz&lt;/h3&gt;&#xA;&lt;p&gt;wir informieren und berichten transparent und umfänglich in regelmässigen Zeitabständen&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/alean/werte/3/</link>
+      <link>http://localhost:1313/werte/3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/alean/werte/3/</guid>
+      <guid>http://localhost:1313/werte/3/</guid>
       <description>&lt;h3 id=&#34;integrität---aufrichtigkeit&#34;&gt;Integrität - Aufrichtigkeit&lt;/h3&gt;&#xA;&lt;p&gt;wir stellen im Team die Interessen des Kunden und sein Vermögen gänzlich in den Mittelpunkt&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/alean/werte/4/</link>
+      <link>http://localhost:1313/werte/4/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/alean/werte/4/</guid>
+      <guid>http://localhost:1313/werte/4/</guid>
       <description>&lt;h3 id=&#34;verlässlichkeit--diskretion--nachhaltigkeit---kontinuität&#34;&gt;Verlässlichkeit – Diskretion – Nachhaltigkeit - Kontinuität&lt;/h3&gt;&#xA;&lt;p&gt;wir arbeiten für eine vertrauensvolle und langfristige Beziehung zu unseren Kunden&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/alean/werte/5/</link>
+      <link>http://localhost:1313/werte/5/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/alean/werte/5/</guid>
+      <guid>http://localhost:1313/werte/5/</guid>
       <description>&lt;h3 id=&#34;kosteneffizienz---individualität---flexibilität&#34;&gt;Kosteneffizienz - Individualität - Flexibilität&lt;/h3&gt;&#xA;&lt;p&gt;wir beraten Sie persönlich, individuell, flexibel und umfänglich kostenbewusst&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/alean/werte/6/</link>
+      <link>http://localhost:1313/werte/6/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/alean/werte/6/</guid>
+      <guid>http://localhost:1313/werte/6/</guid>
       <description>&lt;h3 id=&#34;maßgeschneidert---service---sicherheit&#34;&gt;Maßgeschneidert - Service - Sicherheit&lt;/h3&gt;&#xA;&lt;p&gt;Maßgeschneiderte Finanzlösungen, hohe Servicequalität und maximale Sicherheit. Unsere erfahrenen Finanzexperten investieren diszipliniert nach modernsten Anlagegrundsätzen (aktiv, passiv, Best-in-Class) und überwachen laufend die Märkte sowie Ihr Risikoprofil.&lt;/p&gt;</description>
     </item>
   </channel>
