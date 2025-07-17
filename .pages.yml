@@ -1,0 +1,18 @@
+media:
+  input: static
+  output: /alean
+
+content:
+  - name: sections
+    label: Hauptseite
+    path: content
+    type: collection
+    fields:
+      - name: tagline
+        type: string
+      - name: Title
+        type: string
+      - name: image
+        type: string
+      - name: body
+        type: markdown
