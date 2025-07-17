@@ -15,4 +15,4 @@ content:
       - name: image
         type: string
       - name: body
-        type: markdown
+        type: rich-text
