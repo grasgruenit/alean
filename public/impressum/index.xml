@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Alean (Capital) AG</title>
-    <link>http://localhost:1313/impressum/</link>
+    <link>https://grasgruenit.github.io/impressum/</link>
     <description>Recent content on Alean (Capital) AG</description>
     <generator>Hugo</generator>
     <language>de-li</language>
-    <atom:link href="http://localhost:1313/impressum/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://grasgruenit.github.io/impressum/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
