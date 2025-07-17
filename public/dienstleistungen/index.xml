@@ -9,16 +9,16 @@
     <atom:link href="http://localhost:1313/dienstleistungen/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Anlageberatung / Investment Advisory</title>
-      <link>http://localhost:1313/dienstleistungen/2/</link>
+      <link>http://localhost:1313/dienstleistungen/5/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/dienstleistungen/2/</guid>
+      <guid>http://localhost:1313/dienstleistungen/5/</guid>
       <description>&lt;p&gt;Im Rahmen des Advisory Mandates entscheiden Sie bei der Veranlagung.&lt;/p&gt;&#xA;&lt;p&gt;Wir begleiten Sie tatkräftig.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Asset Management Services</title>
-      <link>http://localhost:1313/dienstleistungen/4/</link>
+      <link>http://localhost:1313/dienstleistungen/2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/dienstleistungen/4/</guid>
+      <guid>http://localhost:1313/dienstleistungen/2/</guid>
       <description>&lt;p&gt;Im Rahmen der Asset Management Services bieten wir eine Reihe von Dienstleistungen an:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Professionelle Asset&lt;/strong&gt; &lt;strong&gt;Allocation Beratung&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Konsolidierung der Vermögenswerte&lt;/strong&gt;&lt;br&gt;&#xA;&lt;strong&gt;über verschiedene&lt;/strong&gt;&lt;br&gt;&#xA;&lt;strong&gt;Bankverbindungen&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Sophistiziertes Reporting&lt;/strong&gt; &lt;strong&gt;inklusive Risikoanalysen&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Bankverbindungen&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Investment Controlling&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Finanzierungsberatung&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Family Office Services&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
@@ -26,7 +26,7 @@
       <link>http://localhost:1313/dienstleistungen/3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/dienstleistungen/3/</guid>
-      <description>&lt;p&gt;Eine Reihe von Fonds werden durch das Asset Management der Alean (Capital) AG verwaltet. Weitere Infos zu den Fondsprodukten erhalten sie unter &lt;a href=&#34;https://www.aleancapital.com/fonds/&#34; style=&#34;text-decoration:underline&#34; &#xD;&#xA;   &#xD;&#xA;&#xD;&#xA; &#xD;&#xA;&#x9;target=&#34;_blank&#34;&#xD;&#xA;&#xD;&#xA;&gt;&amp;ldquo;Fonds&amp;rdquo; &#xD;&#xA;&#xD;&#xA; &amp;nbsp&lt;span style=&#34;font-size: 0.7em;&#34;&gt;&lt;i class=&#34;fa-solid fa-up-right-from-square&#34;&gt;&lt;/i&gt;&lt;/span&gt;&#xD;&#xA;&#xD;&#xA;&lt;/a&gt;&#xD;&#xA;&#xD;&#xA;.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Eine Reihe von Fonds werden durch das Asset Management der Alean (Capital) AG verwaltet. Weitere Infos zu den Fondsprodukten erhalten sie unter &lt;a href=&#34;fonds&#34; style=&#34;display:inline !important;&#34; &#xD;&#xA;   &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&gt;&lt;span style=&#34;text-decoration:underline;&#34;&gt;Fonds&lt;/span&gt;&#xD;&#xA;&#xD;&#xA; &lt;i class=&#34;fa-solid fa-arrow-right&#34;&gt;&lt;/i&gt;&#xD;&#xA;&#xD;&#xA;&lt;/a&gt;&#xD;&#xA;&#xD;&#xA;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Vermögensverwaltung</title>

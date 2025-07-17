@@ -2,89 +2,103 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>http://localhost:53233/</loc>
     <lastmod>2024-07-29T13:48:36+06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/downloads/1/</loc>
+    <loc>http://localhost:53233/allgemeines/</loc>
   </url><url>
-    <loc>http://localhost:1313/downloads/2/</loc>
+    <loc>http://localhost:53233/downloads/1/</loc>
   </url><url>
-    <loc>http://localhost:1313/fonds/1/</loc>
+    <loc>http://localhost:53233/downloads/2/</loc>
   </url><url>
-    <loc>http://localhost:1313/fonds/2/</loc>
+    <loc>http://localhost:53233/fonds/1/</loc>
   </url><url>
-    <loc>http://localhost:1313/fonds/3/</loc>
+    <loc>http://localhost:53233/fonds/2/</loc>
   </url><url>
-    <loc>http://localhost:1313/impressum/</loc>
+    <loc>http://localhost:53233/fonds/3/</loc>
   </url><url>
-    <loc>http://localhost:1313/mitgliedschaften/1/</loc>
+    <loc>http://localhost:53233/impressum/</loc>
   </url><url>
-    <loc>http://localhost:1313/mitgliedschaften/2/</loc>
+    <loc>http://localhost:53233/mitgliedschaften/1/</loc>
   </url><url>
-    <loc>http://localhost:1313/mitgliedschaften/3/</loc>
+    <loc>http://localhost:53233/mitgliedschaften/2/</loc>
   </url><url>
-    <loc>http://localhost:1313/mitgliedschaften/4/</loc>
+    <loc>http://localhost:53233/mitgliedschaften/3/</loc>
   </url><url>
-    <loc>http://localhost:1313/mitgliedschaften/5/</loc>
+    <loc>http://localhost:53233/mitgliedschaften/4/</loc>
   </url><url>
-    <loc>http://localhost:1313/philosophie/1/</loc>
+    <loc>http://localhost:53233/mitgliedschaften/5/</loc>
   </url><url>
-    <loc>http://localhost:1313/philosophie/2/</loc>
+    <loc>http://localhost:53233/philosophie/1/</loc>
   </url><url>
-    <loc>http://localhost:1313/philosophie/3/</loc>
+    <loc>http://localhost:53233/philosophie/2/</loc>
   </url><url>
-    <loc>http://localhost:1313/philosophie/4/</loc>
+    <loc>http://localhost:53233/philosophie/3/</loc>
   </url><url>
-    <loc>http://localhost:1313/werte/1/</loc>
+    <loc>http://localhost:53233/philosophie/4/</loc>
   </url><url>
-    <loc>http://localhost:1313/werte/2/</loc>
+    <loc>http://localhost:53233/standort/1/</loc>
   </url><url>
-    <loc>http://localhost:1313/werte/3/</loc>
+    <loc>http://localhost:53233/standort/2/</loc>
   </url><url>
-    <loc>http://localhost:1313/werte/4/</loc>
+    <loc>http://localhost:53233/standort/anreiseauto/</loc>
   </url><url>
-    <loc>http://localhost:1313/werte/5/</loc>
+    <loc>http://localhost:53233/standort/anreiseoeff/</loc>
   </url><url>
-    <loc>http://localhost:1313/werte/6/</loc>
+    <loc>http://localhost:53233/werte/1/</loc>
   </url><url>
-    <loc>http://localhost:1313/team/1/</loc>
+    <loc>http://localhost:53233/werte/2/</loc>
   </url><url>
-    <loc>http://localhost:1313/team/5/</loc>
+    <loc>http://localhost:53233/werte/3/</loc>
   </url><url>
-    <loc>http://localhost:1313/dienstleistungen/2/</loc>
+    <loc>http://localhost:53233/werte/4/</loc>
   </url><url>
-    <loc>http://localhost:1313/philosophie/</loc>
+    <loc>http://localhost:53233/werte/5/</loc>
   </url><url>
-    <loc>http://localhost:1313/dienstleistungen/4/</loc>
+    <loc>http://localhost:53233/werte/6/</loc>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>http://localhost:53233/team/1/</loc>
   </url><url>
-    <loc>http://localhost:1313/team/</loc>
+    <loc>http://localhost:53233/team/5/</loc>
   </url><url>
-    <loc>http://localhost:1313/dienstleistungen/</loc>
+    <loc>http://localhost:53233/dienstleistungen/5/</loc>
   </url><url>
-    <loc>http://localhost:1313/fonds/</loc>
+    <loc>http://localhost:53233/philosophie/</loc>
   </url><url>
-    <loc>http://localhost:1313/dienstleistungen/3/</loc>
+    <loc>http://localhost:53233/dienstleistungen/2/</loc>
   </url><url>
-    <loc>http://localhost:1313/downloads/</loc>
+    <loc>http://localhost:53233/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/team/2/</loc>
+    <loc>http://localhost:53233/team/</loc>
   </url><url>
-    <loc>http://localhost:1313/start/</loc>
+    <loc>http://localhost:53233/dienstleistungen/</loc>
   </url><url>
-    <loc>http://localhost:1313/team/4/</loc>
+    <loc>http://localhost:53233/standort/</loc>
   </url><url>
-    <loc>http://localhost:1313/mitgliedschaften/</loc>
+    <loc>http://localhost:53233/fonds/</loc>
   </url><url>
-    <loc>http://localhost:1313/team/6/</loc>
+    <loc>http://localhost:53233/dienstleistungen/3/</loc>
   </url><url>
-    <loc>http://localhost:1313/team/3/</loc>
+    <loc>http://localhost:53233/downloads/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>http://localhost:53233/team/2/</loc>
   </url><url>
-    <loc>http://localhost:1313/werte/</loc>
+    <loc>http://localhost:53233/start/</loc>
   </url><url>
-    <loc>http://localhost:1313/dienstleistungen/1/</loc>
+    <loc>http://localhost:53233/team/4/</loc>
+  </url><url>
+    <loc>http://localhost:53233/standort/adresse/</loc>
+  </url><url>
+    <loc>http://localhost:53233/mitgliedschaften/</loc>
+  </url><url>
+    <loc>http://localhost:53233/team/6/</loc>
+  </url><url>
+    <loc>http://localhost:53233/team/3/</loc>
+  </url><url>
+    <loc>http://localhost:53233/tags/</loc>
+  </url><url>
+    <loc>http://localhost:53233/werte/</loc>
+  </url><url>
+    <loc>http://localhost:53233/dienstleistungen/1/</loc>
   </url>
 </urlset>

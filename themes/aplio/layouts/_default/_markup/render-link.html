@@ -1,12 +1,14 @@
-<a href="{{ .Destination | safeURL }}" style="text-decoration:underline" 
+<a href="{{ .Destination | safeURL }}" style="display:inline !important;" 
    {{ with .Title }} title="{{ . }}"{{ end }}
 {{ if (strings.HasPrefix .Destination "#") }} class="smooth-scroll-middle"{{ end }}
-{{ if or (strings.HasPrefix .Destination "http") (strings.HasSuffix .Destination ".pdf") (strings.HasSuffix .Destination ".jpg") (strings.HasSuffix .Destination ".html") }} 
-	target="_blank"
+{{ if (strings.HasPrefix .Destination "http") }} 
+	target="_blank" rel="noopener" 
 {{ end }}
->{{ .Text }} 
+><span style="text-decoration:underline;">{{ .Text }}</span>
 {{ if (strings.HasPrefix .Destination "http") }}
- &nbsp<span style="font-size: 0.7em;"><i class="fa-solid fa-up-right-from-square"></i></span>
+ <i class="fa-solid fa-up-right-from-square"></i>
+{{ else }}
+ <i class="fa-solid fa-arrow-right"></i>
 {{ end }}
 </a>
 

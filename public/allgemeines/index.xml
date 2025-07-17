@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alean (Capital) AG</title>
+    <link>http://localhost:1313/allgemeines/</link>
+    <description>Recent content on Alean (Capital) AG</description>
+    <generator>Hugo</generator>
+    <language>de-li</language>
+    <atom:link href="http://localhost:1313/allgemeines/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

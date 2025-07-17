@@ -6,4 +6,6 @@ Die Alean (Capital) AG ist eine unabhängige Vermögensverwaltungsgesellschaft m
 
 Unser erfahrenes Team aus Investmentspezialisten bietet Ihnen eine transparente und effiziente Vermögensverwaltung.
 
-Als Mitglied des Vereins unabhängiger Vermögensverwalter in Liechtenstein (VuVL) sind wir dem Anlegerschutzsystem der Einlagensicherungs- und Anlegerentschädigungs-Stiftung SV angeschlossen, das dem EU-Recht entspricht. Weitere Informationen finden Sie unter www.eas-liechtenstein.li.
+Als Mitglied des Vereins unabhängiger Vermögensverwalter in Liechtenstein [(VuVL)](http://www.vuvl.li/)  sind wir dem Anlegerschutzsystem der Einlagensicherungs- und Anlegerentschädigungs-Stiftung SV [EAS](https://www.eas-liechtenstein.li)  angeschlossen, welches EU-Recht entspricht.
+
+[Weitere Informationen](allgemeines)
