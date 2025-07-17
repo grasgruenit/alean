@@ -1,5 +1,5 @@
 ---
-tagline: 'Stabilität und Exzellenz'
+tagline: 'Besuchen Sie uns im'
 Title: 'Office in Vaduz'
 ---
 Alean (Capital) AG
