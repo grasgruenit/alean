@@ -2,7 +2,9 @@ backend:
   name: github
   repo: grasgruen.it/alean # e.g., "your-name/my-hugo-site"
   branch: main # Or master, depending on your default branch
-
+  base_url: https://sveltia-cms-auth.manuel-ec1.workers.dev/
+  auth_endpoint: auth
+  
 media_folder: "static" # Folder where uploaded media will be stored
 public_folder: "" # The src attribute for uploaded media will begin with this path
 
