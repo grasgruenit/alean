@@ -1,5 +1,5 @@
 ---
-Title: <kein Titel>
+Title: Allgemeines
 ---
 Seit dem 1. Januar 2006 ist das Gesetz über die Vermögensverwaltung (Vermögensverwaltungsgesetz; VVG) in Kraft. Dieses Gesetz bildet die Grundlage für Vermögensverwaltungsgesellschaften als neue, international anerkannte Finanzintermediäre. Die Finanzmarktaufsicht (FMA) überwacht den Vollzug des Vermögensverwaltungsgesetzes und der dazu erlassenen Verordnung sowie die Einhaltung der Reglemente und trifft die notwendigen Massnahmen.
 
