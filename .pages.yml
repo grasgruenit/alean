@@ -13,7 +13,7 @@ content:
       - name: tagline
         type: string
       - name: image
-        type: string
+        type: image
       - name: body
         type: rich-text
   - name: downloads
