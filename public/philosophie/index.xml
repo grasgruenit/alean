@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Anlagephilosophie on Alean (Capital) AG</title>
-    <link>https://grasgruenit.github.io/philosophie/</link>
+    <link>http://localhost:53233/alean/philosophie/</link>
     <description>Recent content in Anlagephilosophie on Alean (Capital) AG</description>
     <generator>Hugo</generator>
     <language>de-li</language>
-    <atom:link href="https://grasgruenit.github.io/philosophie/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:53233/alean/philosophie/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>https://grasgruenit.github.io/philosophie/1/</link>
+      <link>http://localhost:53233/alean/philosophie/1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://grasgruenit.github.io/philosophie/1/</guid>
+      <guid>http://localhost:53233/alean/philosophie/1/</guid>
       <description>&lt;h3 id=&#34;dynamischer-anlageprozess-top-down-ansatz&#34;&gt;Dynamischer Anlageprozess, Top-Down Ansatz&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;Anlagestrategie&lt;/strong&gt; – langfristige Aufteilung des Vermögens&lt;br&gt;&#xA;&lt;strong&gt;Anlagetaktik&lt;/strong&gt; – Abweichungen von der Anlagestrategie&lt;br&gt;&#xA;&lt;strong&gt;Umsetzung&lt;/strong&gt; mit ausgewählten Anlageinstrumenten&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>https://grasgruenit.github.io/philosophie/2/</link>
+      <link>http://localhost:53233/alean/philosophie/2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://grasgruenit.github.io/philosophie/2/</guid>
+      <guid>http://localhost:53233/alean/philosophie/2/</guid>
       <description>&lt;h3 id=&#34;aufteilung-anlageklassen&#34;&gt;Aufteilung Anlageklassen&lt;/h3&gt;&#xA;&lt;p&gt;Maximale Ausschöpfung des Diversifikationspotentials bei gleichzeitiger strategischer Absicherung von Währungsrisiken&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>https://grasgruenit.github.io/philosophie/3/</link>
+      <link>http://localhost:53233/alean/philosophie/3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://grasgruenit.github.io/philosophie/3/</guid>
+      <guid>http://localhost:53233/alean/philosophie/3/</guid>
       <description>&lt;h3 id=&#34;market-trading--timing&#34;&gt;Market Trading / Timing&lt;/h3&gt;&#xA;&lt;p&gt;Dynamische taktische Abweichungen von der vereinbarten Anlagestrategie zur optimalen Ausnutzung von Marktentwicklungen bzw. kurzfristiger Investmentopportunitäten&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>https://grasgruenit.github.io/philosophie/4/</link>
+      <link>http://localhost:53233/alean/philosophie/4/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://grasgruenit.github.io/philosophie/4/</guid>
+      <guid>http://localhost:53233/alean/philosophie/4/</guid>
       <description>&lt;h3 id=&#34;optimiert-und-effizient&#34;&gt;Optimiert und effizient&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;Passive&lt;/strong&gt;, d.h. indexnahe Umsetzung in informationseffizienten Märkten&lt;br&gt;&#xA;&lt;strong&gt;Aktive&lt;/strong&gt; Umsetzung bzw. Einsatz von aktivem Management in den übrigen Märkten&lt;/p&gt;</description>
     </item>
   </channel>

@@ -1,4 +1,4 @@
-baseURL = 'https://grasgruenit.github.io/'
+baseURL = 'https://grasgruenit.github.io/alean'
 languageCode = 'de-li'
 pagination = { pagerSize = 6 }
 title = 'Alean (Capital) AG'
