@@ -11,5 +11,3 @@ Unser erfahrenes Team aus Investmentspezialisten bietet Ihnen eine transparente 
 Als Mitglied des Vereins unabhängiger Vermögensverwalter in Liechtenstein [(VuVL)](http://www.vuvl.li/) sind wir dem Anlegerschutzsystem der Einlagensicherungs- und Anlegerentschädigungs-Stiftung SV [EAS](https://www.eas-liechtenstein.li) angeschlossen, welches EU-Recht entspricht.
 
 [Weitere Informationen](allgemeines)
-
-![](/alean/csm_Family-Office-Services.jpg)
