@@ -8,9 +8,9 @@ content:
     path: content
     type: collection
     fields:
-      - name: tagline
-        type: string
       - name: Title
+        type: string
+      - name: tagline
         type: string
       - name: image
         type: string
