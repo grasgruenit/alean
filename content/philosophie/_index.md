@@ -1,5 +1,5 @@
 ---
+tagline: 'Das Optimum für Sie'
 Title: 'Anlagephilosophie'
 ---
 
-Das Optimum für Sie

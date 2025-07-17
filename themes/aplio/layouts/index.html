@@ -93,7 +93,7 @@
     <div class="grid grid-cols-12 max-lg:gap-y-8 lg:gap-8">
       <div class="col-span-12 lg:col-span-4">
         <div class="max-lg: mb-15">
-          <p class="section-tagline">{{.Content | safeHTML }}</p>
+          <p class="section-tagline">{{.Params.tagline | safeHTML }}</p>
 
           <h2 class="mb-8">
             {{ .Title | safeHTML }}
@@ -171,7 +171,7 @@
           </div>
           <div class="text-center">
             <a href="{{.Permalink}}"><h3 class="mb-2"> {{ .Title }}</h3></a>
-            <p class="text-sm font-medium leading-[1.5] mb-6">{{.Params.designation}}</p>
+            <p class="text-sm font-medium leading-[1.5] mb-6">{{.Params.tagline}}</p>
             
           </div>
         </div>
