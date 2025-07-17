@@ -16,3 +16,18 @@ content:
         type: string
       - name: body
         type: rich-text
+  - name: downloads
+    label: Downloads
+    path: content/downloads
+    type: collection
+    fields:
+      - name: name
+        type: string
+      - name: isin
+        type: string
+      - name: waehrung
+        type: string
+      - name: aum
+        type: string
+      - name: body
+        type: string
