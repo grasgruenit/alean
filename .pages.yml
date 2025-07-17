@@ -32,4 +32,4 @@ content:
       - name: aum
         type: string
       - name: body
-        type: string
+        type: text
