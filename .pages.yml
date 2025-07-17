@@ -23,8 +23,6 @@ content:
     fields:
       - name: Title
         type: string
-      - name: name
-        type: string
       - name: isin
         type: string
       - name: waehrung
