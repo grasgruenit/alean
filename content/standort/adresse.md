@@ -1,6 +1,6 @@
 ---
 tagline: 'Stabilität und Exzellenz'
-title: 'Office in Vaduz'
+Title: 'Office in Vaduz'
 ---
 Alean (Capital) AG
 Assetmanagement
