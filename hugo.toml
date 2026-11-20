@@ -32,3 +32,29 @@ theme= 'aplio'
   [module.hugoVersion]
     extended = false
     min = "0.145.0"
+
+[menu]
+  [[menu.main]]
+    name = "Start"
+    url = "/"
+    weight = 10
+
+  [[menu.main]]
+    name = "Team"
+    url = "#team" # Beispiel-Pfad
+    weight = 20
+
+  [[menu.main]]
+    name = "Dienstleistungen"
+    url = "#services" # Beispiel-Pfad
+    weight = 30
+    
+  [[menu.main]]
+    name = "Fonds"
+    url = "/fonds/" 
+    weight = 40
+
+  [[menu.main]]
+    name = "Standort"
+    url = "/standort/" 
+    weight = 40
