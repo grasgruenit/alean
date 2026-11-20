@@ -73,7 +73,7 @@
         </button>
       </li>
 
-      <li class="max-lg:inline-block lg:hidden ">
+      <li class="max-lg:inline-block lg:hidden mt-6">
         <button class="outline-none mobile-menu-button w-10 h-10 rounded-full bg-white dark:bg-dark-200 relative ">
           <svg
             xmlns="http://www.w3.org/2000/svg"
@@ -102,13 +102,14 @@
         </button>
       </li>
     </ul>
-    <div class="mobile-menu max-lg:overflow-y-auto">
+
+	<div class="mobile-menu max-lg:overflow-y-auto !bg-transparent" style="background-color: transparent !important;">
       <button
         class=" outline-none navbar-toggle-close  w-10 h-10 rounded-full bg-white dark:bg-dark-200 absolute right-6 top-5 "
       >
         <i class="fa-solid fa-times"></i>
       </button>
-      <ul class="nav-list flex flex-col gap-5 w-full max-w-[500px] landscape:h-full">
+      <ul class="nav-list flex flex-col gap-5 w-full max-w-[500px] landscape:h-full bg-white/50 dark:bg-dark-200/50 backdrop-blur-md p-6 rounded-large">
         {{ $current := . }}
           {{ range .Site.Menus.main.ByWeight }}
             {{ $active := or ($current.IsMenuCurrent "main" .) ($current.HasMenuCurrent "main" .) }}
@@ -116,7 +117,7 @@
             <li class="relative group">
               <a
                 href="javascript:void(0)"
-                class="font-Inter flex items-center text-base font-medium leading-8 text-paragraph dark:text-white py-[5px] px-5 lg:px-4 xl:px-5 border rounded-large border-transparent hover:bg-white hover:border-borderColour dark:hover:bg-dark-200 dark:hover:border-borderColour/10 duration-500 hover:duration-500 transition-colors {{ if $active }} active {{ end }}"
+                class="font-Inter flex items-center text-lg font-bold leading-8 text-paragraph dark:text-white py-[5px] px-5 lg:px-4 xl:px-5 border rounded-large border-transparent hover:bg-white hover:border-borderColour dark:hover:bg-dark-200 dark:hover:border-borderColour/10 duration-500 hover:duration-500 transition-colors {{ if $active }} active {{ end }}"
               >
               {{.Name}}
                 <i
@@ -139,7 +140,7 @@
             <li>
               <a
               href="{{.URL | absURL}}"
-                class="relative overflow-hidden text-base capitalize text-paragraph pb-2.5 before:absolute before:bottom-0 before:left-0 before:h-[2px] before:w-full before:origin-right before:scale-x-0 before:bg-paragraph dark:before:bg-white  before:transition-transform before:duration-500 duration-500 before:content-[''] before:hover:origin-left before:hover:scale-x-100 {{ if $active }}active {{else}} a {{ end }}"
+                class="font-Inter flex items-center text-lg font-bold leading-8 text-paragraph dark:text-white py-[5px] px-5 lg:px-4 xl:px-5 border rounded-large border-transparent hover:bg-white hover:border-borderColour dark:hover:bg-dark-200 dark:hover:border-borderColour/10 duration-500 hover:duration-500 transition-colors {{ if $active }}active{{ end }}"
               >
               
               {{.Name}}
@@ -147,15 +148,8 @@
             </li>
             {{ end }}
           {{ end }}
-        <li>
-          <a
-            href="/request-demo"
-            class="btn btn-navbar btn-sm"
-          >
-            Request Demo
-          </a>
-        </li>
       </ul>
     </div>
+
   </nav>
 </header>
