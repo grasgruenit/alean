@@ -89,21 +89,26 @@
         </button>
       </li>
     </ul>
-    <div class="mobile-menu max-lg:overflow-y-auto">
+
+
+	<div class="mobile-menu max-lg:overflow-y-auto">
       <button
-        class=" outline-none navbar-toggle-close  w-10 h-10 rounded-full bg-white dark:bg-dark-200 absolute right-6 top-5 "
+        class=" outline-none navbar-toggle-close w-10 h-10 rounded-full bg-white dark:bg-dark-200 absolute right-6 top-5 "
       >
         <i class="fa-solid fa-times"></i>
       </button>
-      <ul class="nav-list flex flex-col gap-5 w-full max-w-[500px] landscape:h-full">
+      
+      <!-- Hier ist die Transparenz (bg-white/50) und der Blur-Effekt eingefügt -->
+      <ul class="nav-list flex flex-col gap-5 w-full max-w-[500px] landscape:h-full bg-white/50 dark:bg-dark-200/50 backdrop-blur-md p-6 rounded-large">
         {{ $current := . }}
         {{ range .Site.Menus.main.ByWeight  }}
           {{ $active := or ($current.IsMenuCurrent "main" .) ($current.HasMenuCurrent "main" .) }}
           {{if .HasChildren }}
           <li class="relative group">
+            <!-- Hier: text-lg und font-bold für Dropdown-Titel -->
             <a
               href="javascript:void(0)"
-              class="font-Inter flex items-center text-base font-medium leading-8 text-paragraph dark:text-white py-[5px] px-5 lg:px-4 xl:px-5 border rounded-large border-transparent hover:bg-white hover:border-borderColour dark:hover:bg-dark-200 dark:hover:border-borderColour/10 duration-500 hover:duration-500 transition-colors  {{ if $active }} active {{ end }}"
+              class="font-Inter flex items-center text-lg font-bold leading-8 text-paragraph dark:text-white py-[5px] px-5 lg:px-4 xl:px-5 border rounded-large border-transparent hover:bg-white hover:border-borderColour dark:hover:bg-dark-200 dark:hover:border-borderColour/10 duration-500 hover:duration-500 transition-colors  {{ if $active }} active {{ end }}"
             >
             {{.Name}}
               <i
@@ -124,9 +129,10 @@
           </li>
           {{ else }}
           <li>
+            <!-- Hier: text-lg und font-bold für normale Menüpunkte -->
             <a
               href="{{.URL | absURL}}"
-              class="font-Inter flex items-center text-base font-medium leading-8 text-paragraph dark:text-white py-[5px] px-5 lg:px-4 xl:px-5 border rounded-large border-transparent hover:bg-white hover:border-borderColour dark:hover:bg-dark-200 dark:hover:border-borderColour/10 duration-500 hover:duration-500 transition-colors {{ if $active }}active{{ end }}"
+              class="font-Inter flex items-center text-lg font-bold leading-8 text-paragraph dark:text-white py-[5px] px-5 lg:px-4 xl:px-5 border rounded-large border-transparent hover:bg-white hover:border-borderColour dark:hover:bg-dark-200 dark:hover:border-borderColour/10 duration-500 hover:duration-500 transition-colors {{ if $active }}active{{ end }}"
             >
             {{.Name}}
             </a>
